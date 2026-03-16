@@ -1,0 +1,31 @@
+---
+title: Sixtero
+description: Closer to nature.
+template: splash # The template without the sidebar.
+hero:
+  tagline: A community for everyone who wants to live closer to nature.
+  image:
+    file: ../../assets/herb-smile.png
+  actions:
+    - text: Enter
+      link: /intro
+      icon: right-arrow
+    - text: Community
+      link: https://go.sixtero.com/chat
+      icon: discord
+      variant: minimal
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+<CardGrid stagger>
+  <Card title="Anyone can contribute" icon="pencil">
+    Add your ideas, articles, tutorials, and other content to our community.
+  </Card>
+  <Card title="Organized content" icon="document">
+    Modern and organized content for everyone who wants to live closer to nature.
+  </Card>
+  <Card title="Community" icon="discord">
+    Join our community and share your ideas, experiences, and more with others.
+  </Card>
+</CardGrid>

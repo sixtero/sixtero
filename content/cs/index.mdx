@@ -1,0 +1,31 @@
+---
+title: Sixtero
+description: Blíž přírodě.
+template: splash # The template without the sidebar.
+hero:
+  tagline: Komunita pro všechny, kteří chtějí žít blíž přírodě.
+  image:
+    file: ../../../assets/herb-smile.png
+  actions:
+    - text: Vstoupit
+      link: /cs/intro
+      icon: right-arrow
+    - text: Komunita
+      link: https://go.sixtero.com/chat
+      icon: discord
+      variant: minimal
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+<CardGrid stagger>
+  <Card title="Kdokoliv může přispět" icon="pencil">
+    Přidejte své nápady, články, návody a další obsah do naší komunity.
+  </Card>
+  <Card title="Přehledný obsah" icon="document">
+    Moderní a přehledný obsah pro všechny, kteří chtějí žít blíž přírodě.
+  </Card>
+  <Card title="Komunita" icon="discord">
+    Připojte se k naší komunitě a sdílejte své nápady, zkušenosti a další s ostatními.
+  </Card>
+</CardGrid>
