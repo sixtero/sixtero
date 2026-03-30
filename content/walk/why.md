@@ -1,9 +1,9 @@
 ---
-title: 🚶‍♂️ Why Walk
+title: 🚶‍♂️ Why Walking
 description: Why walking is important for our health, well-being, and connection to nature.
 sidebar:
-  label: 🚶‍♂️ Why Walk
-  order: 1
+  label: 🚶‍♂️ Why Walking
+  order: 2
 ---
 
 ## 🌟 Why Walking is Important
