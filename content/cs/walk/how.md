@@ -8,7 +8,7 @@ sidebar:
 
 Zde najdete návody a tipy pro chůzi, včetně toho, jak začít, jaké jsou zdravotní přínosy a jak si udržet motivaci. Chůze je jednoduchá a efektivní forma cvičení, která může být přizpůsobena různým úrovním fitness a zdravotním potřebám. Ať už jste začátečník nebo zkušený chodec, tento průvodce vám pomůže získat maximum z vašich procházek a zlepšit vaše zdraví a pohodu. 💪
 
-## 👟 Základní tipy pro chůzi
+## Základní tipy pro chůzi
 
 ### 🏁 Jak začít s chůzí
 

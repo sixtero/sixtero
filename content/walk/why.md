@@ -8,7 +8,7 @@ sidebar:
 
 Discover the reasons why walking is important for our health 💪, well-being 😊, and connection to nature 🌿:
 
-## ❤️ Heart, Metabolism, and Longevity
+## Heart, Metabolism, and Longevity
 
 ### 1. ❤️ Cardiovascular Health
 
@@ -34,7 +34,7 @@ Regular walkers have longer telomeres -- the protective caps on chromosomes that
 
 Walking improves memory, concentration, and problem-solving ability. It reduces the risk of dementia and Alzheimer's disease and promotes the formation of new neural connections. [^geroscience]
 
-## 🛡️ Immunity, Prevention, and Pain Relief
+## Immunity, Prevention, and Pain Relief
 
 ### 7. 😊 Mental Health and Mood
 
@@ -60,7 +60,7 @@ A meta-analysis of dozens of studies showed that regular walking lowers blood pr
 
 A meta-analysis showed that walking significantly alleviates chronic back pain, osteoarthritis, and fibromyalgia. Its effectiveness is comparable to other forms of exercise, but walking is more accessible and affordable. [^chronic-pain] [^low-back-pain]
 
-## 🏋️ Body, Bones, and Recovery
+## Body, Bones, and Recovery
 
 ### 13. ⚖️ Weight Management
 
@@ -86,7 +86,7 @@ Walking increases maximum oxygen uptake, which improves overall physical fitness
 
 Walking helps regulate the internal biological clock and reduce stress hormone levels, making it easier to fall asleep and deepening sleep. A meta-analysis confirmed that regular exercise including walking improves sleep quality, alleviates insomnia, and reduces daytime sleepiness. [^sleep-meta]
 
-## ⚡ Vitality and Organ Function
+## Vitality and Organ Function
 
 ### 19. 🍽️ Digestion
 
@@ -112,7 +112,7 @@ Walking increases lung capacity and improves breathing efficiency. Walking in na
 
 Walking helps regulate the stress hormone cortisol and supports the balance of the nervous and hormonal systems. A meta-analysis confirmed that physically active people have better daily cortisol regulation -- a sign of a healthier stress response. [^cortisol-meta]
 
-## 🎨 Mind, Relationships, and Nature
+## Mind, Relationships, and Nature
 
 ### 25. 🎨 Creativity and Problem-Solving
 
@@ -138,7 +138,7 @@ Walking can be a form of moving meditation -- focusing on breath, steps, and sur
 
 Contact of the feet with the earth (grounding) strengthens the small muscles of the feet, improves proprioception, and balance. A review of studies suggests that grounding may reduce inflammation and pain and improve sleep and circulation. [^grounding-review]
 
-## 📊 Protection and Prevention
+## Protection and Prevention
 
 ### 31. 📊 Every Step Counts
 

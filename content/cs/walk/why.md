@@ -8,7 +8,7 @@ sidebar:
 
 Seznamte se s důvody, proč je chůze důležitá pro naše zdraví 💪, pohodu 😊 a spojení s přírodou 🌿:
 
-## ❤️ Srdce, metabolismus a dlouhověkost
+## Srdce, metabolismus a dlouhověkost
 
 ### 1. ❤️ Kardiovaskulární zdraví
 
@@ -33,7 +33,7 @@ Pravidelní chodci mají delší telomery -- ochranné koncovky chromozomů, kte
 
 Chůze zlepšuje paměť, koncentraci a schopnost řešit problémy. Snižuje riziko demence a Alzheimerovy choroby a podporuje tvorbu nových neuronových spojení. [^geroscience]
 
-## 🛡️ Imunita, prevence a úleva od bolesti
+## Imunita, prevence a úleva od bolesti
 
 ### 7. 😊 Duševní zdraví a nálada
 
@@ -59,7 +59,7 @@ Meta-analýza desítek studií prokázala, že pravidelná chůze snižuje krevn
 
 Meta-analýza prokázala, že chůze významně zmírňuje chronickou bolest zad, osteoartrózu i fibromyalgii. Účinnost je srovnatelná s jinými formami cvičení, ale chůze je dostupnější a levnější. [^chronic-pain] [^low-back-pain]
 
-## 🏋️ Tělo, kosti a regenerace
+## Tělo, kosti a regenerace
 
 ### 13. ⚖️ Řízení tělesné hmotnosti
 
@@ -85,7 +85,7 @@ Chůze zvyšuje maximální spotřebu kyslíku, což zlepšuje celkovou fyzickou
 
 Chůze pomáhá regulovat vnitřní biologické hodiny a snižovat hladinu stresových hormonů, což usnadňuje usínání a prohlubuje spánek. Meta-analýza potvrdila, že pravidelné cvičení včetně chůze zlepšuje kvalitu spánku, zmírňuje nespavost i denní ospalost. [^sleep-meta]
 
-## ⚡ Vitalita a funkce orgánů
+## Vitalita a funkce orgánů
 
 ### 19. 🍽️ Trávení
 
@@ -111,7 +111,7 @@ Chůze zvyšuje kapacitu plic a zlepšuje účinnost dýchání. Chůze v přír
 
 Chůze pomáhá regulovat hladinu stresového hormonu kortizolu a podporuje rovnováhu nervového i hormonálního systému. Meta-analýza potvrdila, že pohybově aktivní lidé mají lepší denní regulaci kortizolu -- známku zdravější stresové odpovědi. [^cortisol-meta]
 
-## 🎨 Mysl, vztahy a příroda
+## Mysl, vztahy a příroda
 
 ### 25. 🎨 Kreativita a řešení problémů
 
@@ -137,7 +137,7 @@ Chůze může být formou pohybové meditace -- soustředění na dech, kroky a 
 
 Kontakt chodidel se zemí (grounding) posiluje drobné svaly nohou, zlepšuje vnímání polohy těla a rovnováhu. Přehled studií naznačuje, že uzemnění může snižovat zánět a bolest a zlepšovat spánek a prokrvení. [^grounding-review]
 
-## 📊 Ochrana a prevence
+## Ochrana a prevence
 
 ### 31. 📊 Každý krok se počítá
 
