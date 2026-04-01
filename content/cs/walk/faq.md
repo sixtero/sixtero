@@ -1,8 +1,8 @@
 ---
-title: Často kladené dotazy (FAQ)
+title: ❓ Často kladené dotazy
 description: Nejčastější dotazy a odpovědi týkající se chůze, zdraví a pohybu.
 sidebar:
-  label: FAQ
+  label: ❓ FAQ
   order: 3
 ---
 

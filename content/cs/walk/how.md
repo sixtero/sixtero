@@ -1,8 +1,8 @@
 ---
-title: 🚶 Velký průvodce chůzí
+title: 🗺️ Průvodce chůzí
 description: Kompletní průvodce chůzí, včetně zdravotních přínosů, tipů pro začátečníky a motivace k pravidelné chůzi.
 sidebar:
-  label: Průvodce
+  label: 🗺️ Průvodce
   order: 4
 ---
 

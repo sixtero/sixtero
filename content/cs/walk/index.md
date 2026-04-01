@@ -2,7 +2,7 @@
 title: 🚶‍♂️ Úvod do Chůze
 description: Objevte svět chůze a její přínosy pro zdraví a pohodu. Naučte se, jak začít, jak udržet motivaci a získejte odpovědi na často kladené otázky o chůzi.
 sidebar:
-  label: 🚶‍♂️ Úvod do Chůze
+  label: 🚶‍♂️ Úvod
   order: 1
 ---
 
