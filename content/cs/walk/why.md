@@ -1,8 +1,8 @@
 ---
-title: 🌟 Proč je chůze důležitá
+title: 🤔 Proč je chůze důležitá
 description: Proč je chůze důležitá pro naše zdraví, pohodu a spojení s přírodou.
 sidebar:
-  label: 🌟 Proč chodit
+  label: 🤔 Proč
   order: 2
 ---
 
@@ -13,6 +13,7 @@ Seznamte se s důvody, proč je chůze důležitá pro naše zdraví 💪, pohod
 ### 1. ❤️ Kardiovaskulární zdraví
 
 Chůze posiluje srdce, zlepšuje hladinu cholesterolu a snižuje riziko srdečních onemocnění a mozkové mrtvice. Kardiovaskulární choroby jsou celosvětově nejčastější příčinou úmrtí. Meta-analýza 32 randomizovaných studií (Preventive Medicine 2015) prokázala, že chůze snižuje krevní tlak, hmotnost, obvod pasu i procento tělesného tuku. Meta-analýza 8 prospektivních kohort (20 152 dospělých, Circulation 2022) ukázala, že u starších dospělých je více denních kroků spojeno s progresivně nižším rizikem kardiovaskulárních příhod -- až o 49 %. [^cvd-walking-rct] [^cvd-steps]
+
 ### 2. ⏳ Dlouhověkost
 
 Rozsáhlá meta-analýza prokázala, že riziko úmrtí klesá s každým dalším krokem. Optimální počet se liší podle věku -- u starších dospělých stačí méně kroků než u mladších. Každých 1 000 kroků denně navíc snižuje riziko úmrtí přibližně o 12 %. [^lancet2022] [^steps-mortality]
