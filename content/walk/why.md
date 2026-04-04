@@ -168,96 +168,96 @@ Walking is a simple yet powerful way to improve your health 💪, well-being �
 
 ---
 
-[^cvd-walking-rct]: [The effect of walking on risk factors for cardiovascular disease: an updated systematic review and meta-analysis of randomised control trials](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) (Preventive Medicine, 2015, 255 citací)
+[^cvd-walking-rct]: [The effect of walking on risk factors for cardiovascular disease: an updated systematic review and meta-analysis of randomised control trials](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) (Preventive Medicine, 2015, 255 citations, [DOI](https://doi.org/10.1016/j.ypmed.2014.12.041))
 
-[^cvd-steps]: [Prospective Association of Daily Steps With Cardiovascular Disease: A Harmonized Meta-Analysis](https://consensus.app/papers/details/4ce52a5667bd5fe78671d0f44ac44190/) (Circulation, 2022, 58 citací)
+[^cvd-steps]: [Prospective Association of Daily Steps With Cardiovascular Disease: A Harmonized Meta-Analysis](https://consensus.app/papers/details/4ce52a5667bd5fe78671d0f44ac44190/) (Circulation, 2022, 58 citations, [DOI](https://doi.org/10.1161/CIRCULATIONAHA.122.061288))
 
-[^lancet2022]: [Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts](https://consensus.app/papers/details/4840271f75c45a0ca9919c3b23d63ef9/) (Lancet Public Health, 2022, 342 citations)
+[^lancet2022]: [Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts](https://consensus.app/papers/details/4840271f75c45a0ca9919c3b23d63ef9/) (Lancet Public Health, 2022, 342 citations, [DOI](<https://doi.org/10.1016/S2468-2667(21)00302-9>))
 
-[^steps-mortality]: [Daily Step Count and All-Cause Mortality: A Dose-Response Meta-analysis](https://consensus.app/papers/details/484c75f0900351e9889afdab61c582e9/) (Sports Medicine, 2021, 62 citations)
+[^steps-mortality]: [Daily Step Count and All-Cause Mortality: A Dose-Response Meta-analysis](https://consensus.app/papers/details/484c75f0900351e9889afdab61c582e9/) (Sports Medicine, 2021, 62 citations, [DOI](https://doi.org/10.1007/s40279-021-01536-4))
 
-[^jacc2023]: [Relationship of Daily Step Counts to All-Cause Mortality and Cardiovascular Events](https://consensus.app/papers/details/2567376c4b93533c88c8f20ce44d5f28/) (JACC, 2023, 71 citations)
+[^jacc2023]: [Relationship of Daily Step Counts to All-Cause Mortality and Cardiovascular Events](https://consensus.app/papers/details/2567376c4b93533c88c8f20ce44d5f28/) (JACC, 2023, 71 citations, [DOI](https://doi.org/10.1016/j.jacc.2023.07.029))
 
-[^crp-diabetes]: [Effects of exercise on C-reactive protein, inflammatory cytokine and adipokine in patients with type 2 diabetes](https://consensus.app/papers/details/8eac8fa8a314530487550d41f951c10e/) (Metabolism, 2014, 232 citations)
+[^crp-diabetes]: [Effects of exercise on C-reactive protein, inflammatory cytokine and adipokine in patients with type 2 diabetes](https://consensus.app/papers/details/8eac8fa8a314530487550d41f951c10e/) (Metabolism, 2014, 232 citations, [DOI](https://doi.org/10.1016/j.metabol.2013.08.018))
 
-[^tnf-walking]: [Responses of inflammatory cytokines following moderate intensity walking exercise in overweight or obese individuals](https://consensus.app/papers/details/301144906441599e93fc6f3cf7a2ad74/) (J Exercise Rehabilitation, 2017, 33 citations)
+[^tnf-walking]: [Responses of inflammatory cytokines following moderate intensity walking exercise in overweight or obese individuals](https://consensus.app/papers/details/301144906441599e93fc6f3cf7a2ad74/) (J Exercise Rehabilitation, 2017, 33 citations, [DOI](https://doi.org/10.12965/jer.1735066.533))
 
-[^postprandial]: [After Dinner Rest a While, After Supper Walk a Mile? A Systematic Review with Meta-analysis on the Acute Postprandial Glycemic Response to Exercise](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) (Sports Medicine, 2023, 30 citations)
+[^postprandial]: [After Dinner Rest a While, After Supper Walk a Mile? A Systematic Review with Meta-analysis on the Acute Postprandial Glycemic Response to Exercise](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) (Sports Medicine, 2023, 30 citations, [DOI](https://doi.org/10.1007/s40279-022-01808-7))
 
-[^telomere-nhanes]: [Walking and biologic ageing: Evidence based on NHANES telomere data](https://consensus.app/papers/details/e18fc762c0445ae1b64a4b3becef8cd6/) (J Sports Sciences, 2020, 5 citations)
+[^telomere-nhanes]: [Walking and biologic ageing: Evidence based on NHANES telomere data](https://consensus.app/papers/details/e18fc762c0445ae1b64a4b3becef8cd6/) (J Sports Sciences, 2020, 5 citations, [DOI](https://doi.org/10.1080/02640414.2020.1739896))
 
-[^telomere-review]: [Physical activity and telomere length: Impact of aging and potential mechanisms of action](https://consensus.app/papers/details/05533989f15b5cd999e7611a9b3fa961/) (Oncotarget, 2017, 230 citations)
+[^telomere-review]: [Physical activity and telomere length: Impact of aging and potential mechanisms of action](https://consensus.app/papers/details/05533989f15b5cd999e7611a9b3fa961/) (Oncotarget, 2017, 230 citations, [DOI](https://doi.org/10.18632/oncotarget.16726))
 
-[^geroscience]: [The multifaceted benefits of walking for healthy aging: from Blue Zones to molecular mechanisms](https://consensus.app/papers/details/96d98fb790375ec1804ef7e0923a8a4f/) (GeroScience, 2023, 95 citations)
+[^geroscience]: [The multifaceted benefits of walking for healthy aging: from Blue Zones to molecular mechanisms](https://consensus.app/papers/details/96d98fb790375ec1804ef7e0923a8a4f/) (GeroScience, 2023, 95 citations, [DOI](https://doi.org/10.1007/s11357-023-00873-8))
 
-[^depression-anxiety]: [The Effect of Walking on Depressive and Anxiety Symptoms: Systematic Review and Meta-Analysis](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) (JMIR Public Health and Surveillance, 2024, 15 citations)
+[^depression-anxiety]: [The Effect of Walking on Depressive and Anxiety Symptoms: Systematic Review and Meta-Analysis](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) (JMIR Public Health and Surveillance, 2024, 15 citations, [DOI](https://doi.org/10.2196/48355))
 
-[^walking-groups]: [Is there evidence that walking groups have health benefits? A systematic review and meta-analysis](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) (BJSM, 2015, 383 citations)
+[^walking-groups]: [Is there evidence that walking groups have health benefits? A systematic review and meta-analysis](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) (BJSM, 2015, 383 citations, [DOI](https://doi.org/10.1136/bjsports-2014-094157))
 
-[^bp-systematic]: [The effect of walking intervention on blood pressure control: a systematic review](https://consensus.app/papers/details/9cfa2a6068a0521ba81c1b56b0ac74ed/) (Int J Nursing Studies, 2010, 117 citations)
+[^bp-systematic]: [The effect of walking intervention on blood pressure control: a systematic review](https://consensus.app/papers/details/9cfa2a6068a0521ba81c1b56b0ac74ed/) (Int J Nursing Studies, 2010, 117 citations, [DOI](https://doi.org/10.1016/j.ijnurstu.2010.08.008))
 
-[^bp-brisk]: [Brisk Walking Exercise Has Benefits of Lowering Blood Pressure in Hypertension Sufferers](https://consensus.app/papers/details/1df0cc2f61a85c52b0b2f911ab0449ed/) (Iranian J Public Health, 2024, 4 citations)
+[^bp-brisk]: [Brisk Walking Exercise Has Benefits of Lowering Blood Pressure in Hypertension Sufferers](https://consensus.app/papers/details/1df0cc2f61a85c52b0b2f911ab0449ed/) (Iranian J Public Health, 2024, 4 citations, [DOI](https://doi.org/10.18502/ijph.v53i4.15554))
 
-[^chronic-pain]: [Walking exercise for chronic musculoskeletal pain: systematic review and meta-analysis](https://consensus.app/papers/details/83de39c69c855a418d42c15b08c656d7/) (Archives of Physical Medicine and Rehabilitation, 2015, 203 citations)
+[^chronic-pain]: [Walking exercise for chronic musculoskeletal pain: systematic review and meta-analysis](https://consensus.app/papers/details/83de39c69c855a418d42c15b08c656d7/) (Archives of Physical Medicine and Rehabilitation, 2015, 203 citations, [DOI](https://doi.org/10.1016/j.apmr.2014.12.003))
 
-[^low-back-pain]: [The effectiveness of walking versus exercise on pain and function in chronic low back pain](https://consensus.app/papers/details/5613d9bcbbe353e9a3e39b0f48a1554d/) (Disability and Rehabilitation, 2019, 75 citations)
+[^low-back-pain]: [The effectiveness of walking versus exercise on pain and function in chronic low back pain](https://consensus.app/papers/details/5613d9bcbbe353e9a3e39b0f48a1554d/) (Disability and Rehabilitation, 2019, 75 citations, [DOI](https://doi.org/10.1080/09638288.2017.1410730))
 
-[^gut-microbiome]: [Physical Exercise and the Gut Microbiome: A Bidirectional Relationship Influencing Health and Performance](https://consensus.app/papers/details/ab413497d3fc5d9c91c907d4732d2814/) (Nutrients, 2024, 36 citations)
+[^gut-microbiome]: [Physical Exercise and the Gut Microbiome: A Bidirectional Relationship Influencing Health and Performance](https://consensus.app/papers/details/ab413497d3fc5d9c91c907d4732d2814/) (Nutrients, 2024, 36 citations, [DOI](https://doi.org/10.3390/nu16213663))
 
-[^gut-exercise-prescription]: [The Effect of Exercise Prescription on the Human Gut Microbiota](https://consensus.app/papers/details/60bb727ed8c258b1beab41711bdf03ce/) (Nutrients, 2023, 39 citations)
+[^gut-exercise-prescription]: [The Effect of Exercise Prescription on the Human Gut Microbiota](https://consensus.app/papers/details/60bb727ed8c258b1beab41711bdf03ce/) (Nutrients, 2023, 39 citations, [DOI](https://doi.org/10.3390/nu15061534))
 
-[^glaucoma]: [Greater Physical Activity Is Associated with Slower Visual Field Loss in Glaucoma](https://consensus.app/papers/details/a695e9f1b1e2536fbd7d135b435d2644/) (Ophthalmology, 2019, 67 citations)
+[^glaucoma]: [Greater Physical Activity Is Associated with Slower Visual Field Loss in Glaucoma](https://consensus.app/papers/details/a695e9f1b1e2536fbd7d135b435d2644/) (Ophthalmology, 2019, 67 citations, [DOI](https://doi.org/10.1016/j.ophtha.2018.10.012))
 
-[^kidney-life]: [Exercise and Kidney Disease Prevention: Walk This Way](https://consensus.app/papers/details/211af006176c572a82d240411dab9c40/) (AJKD, 2022, 2 citations)
+[^kidney-life]: [Exercise and Kidney Disease Prevention: Walk This Way](https://consensus.app/papers/details/211af006176c572a82d240411dab9c40/) (AJKD, 2022, 2 citations, [DOI](https://doi.org/10.1053/j.ajkd.2022.07.001))
 
-[^kidney-gfr]: [Walking versus running and GFR trajectory in healthy young adults](https://consensus.app/papers/details/d3ed922b17965e87b68184ac10402acb/) (PLOS One, 2025, 0 citations)
+[^kidney-gfr]: [Walking versus running and GFR trajectory in healthy young adults](https://consensus.app/papers/details/d3ed922b17965e87b68184ac10402acb/) (PLOS One, 2025, 0 citations, [DOI](https://doi.org/10.1371/journal.pone.0323392))
 
-[^pad-walking]: [Intensive walking exercise for lower extremity peripheral arterial disease: A systematic review and meta-analysis](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) (Journal of Diabetes, 2016, 45 citations)
+[^pad-walking]: [Intensive walking exercise for lower extremity peripheral arterial disease: A systematic review and meta-analysis](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) (Journal of Diabetes, 2016, 45 citations, [DOI](https://doi.org/10.1111/1753-0407.12304))
 
-[^parkinson-walking]: [Six-Month Community-Based Brisk Walking and Balance Exercise Alleviates Motor Symptoms in Parkinson's Disease](https://consensus.app/papers/details/dc4affb878115bd4979b8e82a743950f/) (Journal of Parkinson's Disease, 2021, 46 citations)
+[^parkinson-walking]: [Six-Month Community-Based Brisk Walking and Balance Exercise Alleviates Motor Symptoms in Parkinson's Disease](https://consensus.app/papers/details/dc4affb878115bd4979b8e82a743950f/) (Journal of Parkinson's Disease, 2021, 46 citations, [DOI](https://doi.org/10.3233/jpd-202503))
 
-[^parkinson-meta]: [A systematic review and meta-analysis on effects of aerobic exercise in people with Parkinson's disease](https://consensus.app/papers/details/052472a6fc165fdd82b6f1a724892da6/) (NPJ Parkinson's Disease, 2022, 59 citations)
+[^parkinson-meta]: [A systematic review and meta-analysis on effects of aerobic exercise in people with Parkinson's disease](https://consensus.app/papers/details/052472a6fc165fdd82b6f1a724892da6/) (NPJ Parkinson's Disease, 2022, 59 citations, [DOI](https://doi.org/10.1038/s41531-022-00418-4))
 
-[^stroke-pace]: [Walking pace and the risk of stroke: A meta-analysis of prospective cohort studies](https://consensus.app/papers/details/1a43ab9adc1356be8132bd596250bfea/) (J Sport and Health Science, 2019, 25 citations)
+[^stroke-pace]: [Walking pace and the risk of stroke: A meta-analysis of prospective cohort studies](https://consensus.app/papers/details/1a43ab9adc1356be8132bd596250bfea/) (J Sport and Health Science, 2019, 25 citations, [DOI](https://doi.org/10.1016/j.jshs.2019.09.005))
 
-[^stroke-meta]: [Physical Activity and Stroke Risk: A Meta-Analysis](https://consensus.app/papers/details/a48b4ce0947052d99f22c94f197b658c/) (Stroke, 2003, 817 citations)
+[^stroke-meta]: [Physical Activity and Stroke Risk: A Meta-Analysis](https://consensus.app/papers/details/a48b4ce0947052d99f22c94f197b658c/) (Stroke, 2003, 817 citations, [DOI](https://doi.org/10.1161/01.str.0000091843.02517.9d))
 
-[^hearing-activity]: [Physical Activity, Physical Fitness for Hearing Loss in Adults: A Systematic Review](https://consensus.app/papers/details/3c058a760b255ff596f3ab3379e9adaf/) (Laryngoscope, 2025, 0 citations)
+[^hearing-activity]: [Physical Activity, Physical Fitness for Hearing Loss in Adults: A Systematic Review](https://consensus.app/papers/details/3c058a760b255ff596f3ab3379e9adaf/) (Laryngoscope, 2025, 0 citations, [DOI](https://doi.org/10.1002/lary.32237))
 
-[^immune-nk]: [The Effects of Moderate Exercise Training on Natural Killer Cells and Acute Upper Respiratory Tract Infections](https://consensus.app/papers/details/c12e6037834f5d5ebd8be1cfba9c522c/) (Int J Sports Medicine, 1990, 361 citations)
+[^immune-nk]: [The Effects of Moderate Exercise Training on Natural Killer Cells and Acute Upper Respiratory Tract Infections](https://consensus.app/papers/details/c12e6037834f5d5ebd8be1cfba9c522c/) (Int J Sports Medicine, 1990, 361 citations, [DOI](https://doi.org/10.1055/s-2007-1024839))
 
-[^immune-elderly]: [Physical activity and immune function in elderly women](https://consensus.app/papers/details/43a59c4145335dcea86530557a4e90a0/) (Medicine and Science in Sports and Exercise, 1993, 441 citations)
+[^immune-elderly]: [Physical activity and immune function in elderly women](https://consensus.app/papers/details/43a59c4145335dcea86530557a4e90a0/) (Medicine and Science in Sports and Exercise, 1993, 441 citations, [DOI](https://doi.org/10.1249/00005768-199307000-00011))
 
-[^lymph-exercise]: [Exercise and the Lymphatic System](https://consensus.app/papers/details/a27186bc8b045e2eaa83cf300ccaef9e/) (Sports Medicine, 2005, 74 citations)
+[^lymph-exercise]: [Exercise and the Lymphatic System](https://consensus.app/papers/details/a27186bc8b045e2eaa83cf300ccaef9e/) (Sports Medicine, 2005, 74 citations, [DOI](https://doi.org/10.2165/00007256-200535060-00001))
 
-[^cancer-prevention]: [Physical Activity in Cancer Prevention and Survival: A Systematic Review](https://consensus.app/papers/details/cd041a104bab5a78b2e24b06fc89881f/) (Medicine & Science in Sports & Exercise, 2019, 659 citations)
+[^cancer-prevention]: [Physical Activity in Cancer Prevention and Survival: A Systematic Review](https://consensus.app/papers/details/cd041a104bab5a78b2e24b06fc89881f/) (Medicine & Science in Sports & Exercise, 2019, 659 citations, [DOI](https://doi.org/10.1249/mss.0000000000001937))
 
-[^cancer-mendelian]: [Physical activity and risks of breast and colorectal cancer: a Mendelian randomisation analysis](https://consensus.app/papers/details/4389c3975f2e5a97b9d6539632cccbba/) (Nature Communications, 2020, 471 citations)
+[^cancer-mendelian]: [Physical activity and risks of breast and colorectal cancer: a Mendelian randomisation analysis](https://consensus.app/papers/details/4389c3975f2e5a97b9d6539632cccbba/) (Nature Communications, 2020, 471 citations, [DOI](https://doi.org/10.1038/s41467-020-14389-8))
 
-[^bone-osteoporosis]: [Evidence on physical activity and osteoporosis prevention for people aged 65+ years](https://consensus.app/papers/details/3a6e8d2c1ed35810b13b034441bfd564/) (Int J Behavioral Nutrition and Physical Activity, 2020, 205 citations)
+[^bone-osteoporosis]: [Evidence on physical activity and osteoporosis prevention for people aged 65+ years](https://consensus.app/papers/details/3a6e8d2c1ed35810b13b034441bfd564/) (Int J Behavioral Nutrition and Physical Activity, 2020, 205 citations, [DOI](https://doi.org/10.1186/s12966-020-01040-4))
 
-[^falls-prevention]: [Evidence on physical activity and falls prevention for people aged 65+ years](https://consensus.app/papers/details/e62238c7b8db5baaaca4918aeadbe963/) (Int J Behavioral Nutrition and Physical Activity, 2020, 1125 citations)
+[^falls-prevention]: [Evidence on physical activity and falls prevention for people aged 65+ years](https://consensus.app/papers/details/e62238c7b8db5baaaca4918aeadbe963/) (Int J Behavioral Nutrition and Physical Activity, 2020, 1125 citations, [DOI](https://doi.org/10.1186/s12966-020-01041-3))
 
-[^sleep-meta]: [Effects of Exercise on Sleep Quality and Insomnia in Adults: A Systematic Review and Meta-Analysis](https://consensus.app/papers/details/141c3a3ff8095509ad3f484d83733967/) (Frontiers in Psychiatry, 2021, 127 citations)
+[^sleep-meta]: [Effects of Exercise on Sleep Quality and Insomnia in Adults: A Systematic Review and Meta-Analysis](https://consensus.app/papers/details/141c3a3ff8095509ad3f484d83733967/) (Frontiers in Psychiatry, 2021, 127 citations, [DOI](https://doi.org/10.3389/fpsyt.2021.664499))
 
-[^digestion-motility]: [Immediate effect of physical activity on gut motility in healthy adults](https://consensus.app/papers/details/669bd73aa2c25d0baa59e622dc9a5a0c/) (Scientific Reports, 2025, 0 citations)
+[^digestion-motility]: [Immediate effect of physical activity on gut motility in healthy adults](https://consensus.app/papers/details/669bd73aa2c25d0baa59e622dc9a5a0c/) (Scientific Reports, 2025, 0 citations, [DOI](https://doi.org/10.1038/s41598-025-18860-8))
 
-[^digestion-transit]: [Associations between physical activity and gastrointestinal transit times](https://consensus.app/papers/details/64a8acd78bbf52e1bddd7784de20a65c/) (J Nutrition, 2023, 15 citations)
+[^digestion-transit]: [Associations between physical activity and gastrointestinal transit times](https://consensus.app/papers/details/64a8acd78bbf52e1bddd7784de20a65c/) (J Nutrition, 2023, 15 citations, [DOI](https://doi.org/10.1016/j.tjnut.2023.06.005))
 
-[^energy-breaks]: [Effect of frequent interruptions of prolonged sitting on self-perceived levels of energy, mood, food cravings and cognitive function](https://consensus.app/papers/details/341dc00102da5a74bd1e6ef34f20834b/) (Int J Behavioral Nutrition and Physical Activity, 2016, 99 citations)
+[^energy-breaks]: [Effect of frequent interruptions of prolonged sitting on self-perceived levels of energy, mood, food cravings and cognitive function](https://consensus.app/papers/details/341dc00102da5a74bd1e6ef34f20834b/) (Int J Behavioral Nutrition and Physical Activity, 2016, 99 citations, [DOI](https://doi.org/10.1186/s12966-016-0437-z))
 
-[^vitamind-walking]: [Environmental and Occupation Factors Associated with Vitamin D Deficiency in Korean Adults](https://consensus.app/papers/details/b27f418af3905d3faeab721a836496b9/) (Int J Environmental Research and Public Health, 2020, 18 citations)
+[^vitamind-walking]: [Environmental and Occupation Factors Associated with Vitamin D Deficiency in Korean Adults](https://consensus.app/papers/details/b27f418af3905d3faeab721a836496b9/) (Int J Environmental Research and Public Health, 2020, 18 citations, [DOI](https://doi.org/10.3390/ijerph17249166))
 
-[^cortisol-meta]: [Physical Activity and Cortisol Regulation: A Meta-Analysis](https://consensus.app/papers/details/584e86ab6f7556df9ebd078a7fe1a440/) (Biological Psychology, 2023, 33 citations)
+[^cortisol-meta]: [Physical Activity and Cortisol Regulation: A Meta-Analysis](https://consensus.app/papers/details/584e86ab6f7556df9ebd078a7fe1a440/) (Biological Psychology, 2023, 33 citations, [DOI](https://doi.org/10.1016/j.biopsycho.2023.108548))
 
-[^creativity-stanford]: [Give your ideas some legs: the positive effect of walking on creative thinking](https://consensus.app/papers/details/b2618fae3f8b5c20b9909f314d85ec56/) (J Experimental Psychology, 2014, 487 citations)
+[^creativity-stanford]: [Give your ideas some legs: the positive effect of walking on creative thinking](https://consensus.app/papers/details/b2618fae3f8b5c20b9909f314d85ec56/) (J Experimental Psychology, 2014, 487 citations, [DOI](https://doi.org/10.1037/a0036577))
 
-[^selfesteem-body]: [Exercise and body image: A meta-analysis](https://consensus.app/papers/details/ca9e12e0c4ff5af5add76e21d31fb6f8/) (Psychology & Health, 2006, 497 citations)
+[^selfesteem-body]: [Exercise and body image: A meta-analysis](https://consensus.app/papers/details/ca9e12e0c4ff5af5add76e21d31fb6f8/) (Psychology & Health, 2006, 497 citations, [DOI](https://doi.org/10.1080/14768320500105270))
 
-[^social-loneliness]: [Context of walking and loneliness among community-dwelling older adults](https://consensus.app/papers/details/4bf298adc52058eaa12372aac232a8a4/) (BMC Geriatrics, 2023, 11 citations)
+[^social-loneliness]: [Context of walking and loneliness among community-dwelling older adults](https://consensus.app/papers/details/4bf298adc52058eaa12372aac232a8a4/) (BMC Geriatrics, 2023, 11 citations, [DOI](https://doi.org/10.1186/s12877-023-04043-5))
 
-[^shinrin-cortisol]: [Effects of forest bathing (shinrin-yoku) on levels of cortisol as a stress biomarker: a systematic review and meta-analysis](https://consensus.app/papers/details/9e2f3fee63dc533fa75d4391954c57d4/) (Int J Biometeorology, 2019, 195 citations)
+[^shinrin-cortisol]: [Effects of forest bathing (shinrin-yoku) on levels of cortisol as a stress biomarker: a systematic review and meta-analysis](https://consensus.app/papers/details/9e2f3fee63dc533fa75d4391954c57d4/) (Int J Biometeorology, 2019, 195 citations, [DOI](https://doi.org/10.1007/s00484-019-01717-x))
 
-[^mindfulness-meta]: [Mindfulness-based programmes for mental health promotion in adults in nonclinical settings: A systematic review and meta-analysis](https://consensus.app/papers/details/c141f0c70df85584b7e51269bec311b4/) (PLoS Medicine, 2021, 199 citations)
+[^mindfulness-meta]: [Mindfulness-based programmes for mental health promotion in adults in nonclinical settings: A systematic review and meta-analysis](https://consensus.app/papers/details/c141f0c70df85584b7e51269bec311b4/) (PLoS Medicine, 2021, 199 citations, [DOI](https://doi.org/10.1371/journal.pmed.1003481))
 
-[^grounding-review]: [Integrative and lifestyle medicine strategies should include Earthing (grounding): Review of research evidence and clinical observations](https://consensus.app/papers/details/a55b7be6c88058a89e7fa6acb6679760/) (Explore, 2019, 17 citations)
+[^grounding-review]: [Integrative and lifestyle medicine strategies should include Earthing (grounding): Review of research evidence and clinical observations](https://consensus.app/papers/details/a55b7be6c88058a89e7fa6acb6679760/) (Explore, 2019, 17 citations, [DOI](https://doi.org/10.1016/j.explore.2019.10.005))

@@ -168,96 +168,96 @@ Chůze je jednoduchý, ale účinný způsob, jak zlepšit své zdraví 💪, po
 
 ---
 
-[^cvd-walking-rct]: [Vliv chůze na rizikové faktory kardiovaskulárních onemocnění: aktualizovaný systematický přehled a meta-analýza randomizovaných kontrolovaných studií](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) (Preventive Medicine, 2015, 255 citací)
+[^cvd-walking-rct]: [Vliv chůze na rizikové faktory kardiovaskulárních onemocnění: aktualizovaný systematický přehled a meta-analýza randomizovaných kontrolovaných studií](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) (Preventive Medicine, 2015, 255 citací, [DOI](https://doi.org/10.1016/j.ypmed.2014.12.041))
 
-[^cvd-steps]: [Prospektivní souvislost denních kroků s kardiovaskulárními onemocněními: harmonizovaná meta-analýza](https://consensus.app/papers/details/4ce52a5667bd5fe78671d0f44ac44190/) (Circulation, 2022, 58 citací)
+[^cvd-steps]: [Prospektivní souvislost denních kroků s kardiovaskulárními onemocněními: harmonizovaná meta-analýza](https://consensus.app/papers/details/4ce52a5667bd5fe78671d0f44ac44190/) (Circulation, 2022, 58 citací, [DOI](https://doi.org/10.1161/CIRCULATIONAHA.122.061288))
 
-[^lancet2022]: [Denní kroky a celková úmrtnost: meta-analýza 15 mezinárodních kohort](https://consensus.app/papers/details/4840271f75c45a0ca9919c3b23d63ef9/) (Lancet Public Health, 2022, 342 citací)
+[^lancet2022]: [Denní kroky a celková úmrtnost: meta-analýza 15 mezinárodních kohort](https://consensus.app/papers/details/4840271f75c45a0ca9919c3b23d63ef9/) (Lancet Public Health, 2022, 342 citací, [DOI](<https://doi.org/10.1016/S2468-2667(21)00302-9>))
 
-[^steps-mortality]: [Denní počet kroků a celková úmrtnost: meta-analýza dávka-odezva](https://consensus.app/papers/details/484c75f0900351e9889afdab61c582e9/) (Sports Medicine, 2021, 62 citací)
+[^steps-mortality]: [Denní počet kroků a celková úmrtnost: meta-analýza dávka-odezva](https://consensus.app/papers/details/484c75f0900351e9889afdab61c582e9/) (Sports Medicine, 2021, 62 citací, [DOI](https://doi.org/10.1007/s40279-021-01536-4))
 
-[^jacc2023]: [Vztah denního počtu kroků k celkové úmrtnosti a kardiovaskulárním příhodám](https://consensus.app/papers/details/2567376c4b93533c88c8f20ce44d5f28/) (JACC, 2023, 71 citací)
+[^jacc2023]: [Vztah denního počtu kroků k celkové úmrtnosti a kardiovaskulárním příhodám](https://consensus.app/papers/details/2567376c4b93533c88c8f20ce44d5f28/) (JACC, 2023, 71 citací, [DOI](https://doi.org/10.1016/j.jacc.2023.07.029))
 
-[^crp-diabetes]: [Účinky cvičení na C-reaktivní protein, zánětové cytokiny a adipokiny u pacientů s diabetem 2. typu](https://consensus.app/papers/details/8eac8fa8a314530487550d41f951c10e/) (Metabolism, 2014, 232 citací)
+[^crp-diabetes]: [Účinky cvičení na C-reaktivní protein, zánětové cytokiny a adipokiny u pacientů s diabetem 2. typu](https://consensus.app/papers/details/8eac8fa8a314530487550d41f951c10e/) (Metabolism, 2014, 232 citací, [DOI](https://doi.org/10.1016/j.metabol.2013.08.018))
 
-[^tnf-walking]: [Odpověď zánětových cytokinů na chůzi střední intenzity u jedinců s nadváhou nebo obezitou](https://consensus.app/papers/details/301144906441599e93fc6f3cf7a2ad74/) (J Exercise Rehabilitation, 2017, 33 citací)
+[^tnf-walking]: [Odpověď zánětových cytokinů na chůzi střední intenzity u jedinců s nadváhou nebo obezitou](https://consensus.app/papers/details/301144906441599e93fc6f3cf7a2ad74/) (J Exercise Rehabilitation, 2017, 33 citací, [DOI](https://doi.org/10.12965/jer.1735066.533))
 
-[^postprandial]: [Po večeři chvíli postůj, po obědě projdi se? Systematický přehled s meta-analýzou akutní postprandiální glykemické odpovědi na cvičení](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) (Sports Medicine, 2023, 30 citací)
+[^postprandial]: [Po večeři chvíli postůj, po obědě projdi se? Systematický přehled s meta-analýzou akutní postprandiální glykemické odpovědi na cvičení](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) (Sports Medicine, 2023, 30 citací, [DOI](https://doi.org/10.1007/s40279-022-01808-7))
 
-[^telomere-nhanes]: [Chůze a biologické stárnutí: důkazy na základě dat o telomerách z NHANES](https://consensus.app/papers/details/e18fc762c0445ae1b64a4b3becef8cd6/) (J Sports Sciences, 2020, 5 citací)
+[^telomere-nhanes]: [Chůze a biologické stárnutí: důkazy na základě dat o telomerách z NHANES](https://consensus.app/papers/details/e18fc762c0445ae1b64a4b3becef8cd6/) (J Sports Sciences, 2020, 5 citací, [DOI](https://doi.org/10.1080/02640414.2020.1739896))
 
-[^telomere-review]: [Fyzická aktivita a délka telomer: vliv stárnutí a potenciální mechanismy účinku](https://consensus.app/papers/details/05533989f15b5cd999e7611a9b3fa961/) (Oncotarget, 2017, 230 citací)
+[^telomere-review]: [Fyzická aktivita a délka telomer: vliv stárnutí a potenciální mechanismy účinku](https://consensus.app/papers/details/05533989f15b5cd999e7611a9b3fa961/) (Oncotarget, 2017, 230 citací, [DOI](https://doi.org/10.18632/oncotarget.16726))
 
-[^geroscience]: [Mnohostranné přínosy chůze pro zdravé stárnutí: od Modrých zón k molekulárním mechanismům](https://consensus.app/papers/details/96d98fb790375ec1804ef7e0923a8a4f/) (GeroScience, 2023, 95 citací)
+[^geroscience]: [Mnohostranné přínosy chůze pro zdravé stárnutí: od Modrých zón k molekulárním mechanismům](https://consensus.app/papers/details/96d98fb790375ec1804ef7e0923a8a4f/) (GeroScience, 2023, 95 citací, [DOI](https://doi.org/10.1007/s11357-023-00873-8))
 
-[^depression-anxiety]: [Vliv chůze na depresivní a úzkostné příznaky: systematický přehled a meta-analýza](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) (JMIR Public Health and Surveillance, 2024, 15 citací)
+[^depression-anxiety]: [Vliv chůze na depresivní a úzkostné příznaky: systematický přehled a meta-analýza](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) (JMIR Public Health and Surveillance, 2024, 15 citací, [DOI](https://doi.org/10.2196/48355))
 
-[^walking-groups]: [Existují důkazy, že skupinová chůze má zdravotní přínosy? Systematický přehled a meta-analýza](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) (BJSM, 2015, 383 citací)
+[^walking-groups]: [Existují důkazy, že skupinová chůze má zdravotní přínosy? Systematický přehled a meta-analýza](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) (BJSM, 2015, 383 citací, [DOI](https://doi.org/10.1136/bjsports-2014-094157))
 
-[^bp-systematic]: [Vliv intervence chůzí na kontrolu krevního tlaku: systematický přehled](https://consensus.app/papers/details/9cfa2a6068a0521ba81c1b56b0ac74ed/) (Int J Nursing Studies, 2010, 117 citací)
+[^bp-systematic]: [Vliv intervence chůzí na kontrolu krevního tlaku: systematický přehled](https://consensus.app/papers/details/9cfa2a6068a0521ba81c1b56b0ac74ed/) (Int J Nursing Studies, 2010, 117 citací, [DOI](https://doi.org/10.1016/j.ijnurstu.2010.08.008))
 
-[^bp-brisk]: [Svižná chůze přináší výhody v podobě snížení krevního tlaku u osob s hypertenzí](https://consensus.app/papers/details/1df0cc2f61a85c52b0b2f911ab0449ed/) (Iranian J Public Health, 2024, 4 citace)
+[^bp-brisk]: [Svižná chůze přináší výhody v podobě snížení krevního tlaku u osob s hypertenzí](https://consensus.app/papers/details/1df0cc2f61a85c52b0b2f911ab0449ed/) (Iranian J Public Health, 2024, 4 citace, [DOI](https://doi.org/10.18502/ijph.v53i4.15554))
 
-[^chronic-pain]: [Chůze jako cvičení u chronické muskuloskeletální bolesti: systematický přehled a meta-analýza](https://consensus.app/papers/details/83de39c69c855a418d42c15b08c656d7/) (Archives of Physical Medicine and Rehabilitation, 2015, 203 citací)
+[^chronic-pain]: [Chůze jako cvičení u chronické muskuloskeletální bolesti: systematický přehled a meta-analýza](https://consensus.app/papers/details/83de39c69c855a418d42c15b08c656d7/) (Archives of Physical Medicine and Rehabilitation, 2015, 203 citací, [DOI](https://doi.org/10.1016/j.apmr.2014.12.003))
 
-[^low-back-pain]: [Účinnost chůze oproti cvičení na bolest a funkci u chronické bolesti dolních zad](https://consensus.app/papers/details/5613d9bcbbe353e9a3e39b0f48a1554d/) (Disability and Rehabilitation, 2019, 75 citací)
+[^low-back-pain]: [Účinnost chůze oproti cvičení na bolest a funkci u chronické bolesti dolních zad](https://consensus.app/papers/details/5613d9bcbbe353e9a3e39b0f48a1554d/) (Disability and Rehabilitation, 2019, 75 citací, [DOI](https://doi.org/10.1080/09638288.2017.1410730))
 
-[^gut-microbiome]: [Fyzické cvičení a střevní mikrobiom: obousměrný vztah ovlivňující zdraví a výkonnost](https://consensus.app/papers/details/ab413497d3fc5d9c91c907d4732d2814/) (Nutrients, 2024, 36 citací)
+[^gut-microbiome]: [Fyzické cvičení a střevní mikrobiom: obousměrný vztah ovlivňující zdraví a výkonnost](https://consensus.app/papers/details/ab413497d3fc5d9c91c907d4732d2814/) (Nutrients, 2024, 36 citací, [DOI](https://doi.org/10.3390/nu16213663))
 
-[^gut-exercise-prescription]: [Vliv předpisu cvičení na lidský střevní mikrobiom](https://consensus.app/papers/details/60bb727ed8c258b1beab41711bdf03ce/) (Nutrients, 2023, 39 citací)
+[^gut-exercise-prescription]: [Vliv předpisu cvičení na lidský střevní mikrobiom](https://consensus.app/papers/details/60bb727ed8c258b1beab41711bdf03ce/) (Nutrients, 2023, 39 citací, [DOI](https://doi.org/10.3390/nu15061534))
 
-[^glaucoma]: [Vyšší fyzická aktivita je spojena s pomalejší ztrátou zorného pole u glaukomu](https://consensus.app/papers/details/a695e9f1b1e2536fbd7d135b435d2644/) (Ophthalmology, 2019, 67 citací)
+[^glaucoma]: [Vyšší fyzická aktivita je spojena s pomalejší ztrátou zorného pole u glaukomu](https://consensus.app/papers/details/a695e9f1b1e2536fbd7d135b435d2644/) (Ophthalmology, 2019, 67 citací, [DOI](https://doi.org/10.1016/j.ophtha.2018.10.012))
 
-[^kidney-life]: [Cvičení a prevence onemocnění ledvin: jděte touto cestou](https://consensus.app/papers/details/211af006176c572a82d240411dab9c40/) (AJKD, 2022, 2 citace)
+[^kidney-life]: [Cvičení a prevence onemocnění ledvin: jděte touto cestou](https://consensus.app/papers/details/211af006176c572a82d240411dab9c40/) (AJKD, 2022, 2 citace, [DOI](https://doi.org/10.1053/j.ajkd.2022.07.001))
 
-[^kidney-gfr]: [Chůze versus běh a trajektorie GFR u zdravých mladých dospělých](https://consensus.app/papers/details/d3ed922b17965e87b68184ac10402acb/) (PLOS One, 2025, 0 citací)
+[^kidney-gfr]: [Chůze versus běh a trajektorie GFR u zdravých mladých dospělých](https://consensus.app/papers/details/d3ed922b17965e87b68184ac10402acb/) (PLOS One, 2025, 0 citací, [DOI](https://doi.org/10.1371/journal.pone.0323392))
 
-[^pad-walking]: [Intenzivní chůze u periferní tepnové choroby dolních končetin: systematický přehled a meta-analýza](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) (Journal of Diabetes, 2016, 45 citací)
+[^pad-walking]: [Intenzivní chůze u periferní tepnové choroby dolních končetin: systematický přehled a meta-analýza](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) (Journal of Diabetes, 2016, 45 citací, [DOI](https://doi.org/10.1111/1753-0407.12304))
 
-[^parkinson-walking]: [Šestiměsíční komunitní program svižné chůze a cvičení rovnováhy zmírňuje motorické příznaky Parkinsonovy choroby](https://consensus.app/papers/details/dc4affb878115bd4979b8e82a743950f/) (Journal of Parkinson's Disease, 2021, 46 citací)
+[^parkinson-walking]: [Šestiměsíční komunitní program svižné chůze a cvičení rovnováhy zmírňuje motorické příznaky Parkinsonovy choroby](https://consensus.app/papers/details/dc4affb878115bd4979b8e82a743950f/) (Journal of Parkinson's Disease, 2021, 46 citací, [DOI](https://doi.org/10.3233/jpd-202503))
 
-[^parkinson-meta]: [Systematický přehled a meta-analýza účinků aerobního cvičení u lidí s Parkinsonovou chorobou](https://consensus.app/papers/details/052472a6fc165fdd82b6f1a724892da6/) (NPJ Parkinson's Disease, 2022, 59 citací)
+[^parkinson-meta]: [Systematický přehled a meta-analýza účinků aerobního cvičení u lidí s Parkinsonovou chorobou](https://consensus.app/papers/details/052472a6fc165fdd82b6f1a724892da6/) (NPJ Parkinson's Disease, 2022, 59 citací, [DOI](https://doi.org/10.1038/s41531-022-00418-4))
 
-[^stroke-pace]: [Tempo chůze a riziko mozkové mrtvice: meta-analýza prospektivních kohortních studií](https://consensus.app/papers/details/1a43ab9adc1356be8132bd596250bfea/) (J Sport and Health Science, 2019, 25 citací)
+[^stroke-pace]: [Tempo chůze a riziko mozkové mrtvice: meta-analýza prospektivních kohortních studií](https://consensus.app/papers/details/1a43ab9adc1356be8132bd596250bfea/) (J Sport and Health Science, 2019, 25 citací, [DOI](https://doi.org/10.1016/j.jshs.2019.09.005))
 
-[^stroke-meta]: [Fyzická aktivita a riziko mozkové mrtvice: meta-analýza](https://consensus.app/papers/details/a48b4ce0947052d99f22c94f197b658c/) (Stroke, 2003, 817 citací)
+[^stroke-meta]: [Fyzická aktivita a riziko mozkové mrtvice: meta-analýza](https://consensus.app/papers/details/a48b4ce0947052d99f22c94f197b658c/) (Stroke, 2003, 817 citací, [DOI](https://doi.org/10.1161/01.str.0000091843.02517.9d))
 
-[^hearing-activity]: [Fyzická aktivita a fyzická zdatnost ve vztahu ke ztrátě sluchu u dospělých: systematický přehled](https://consensus.app/papers/details/3c058a760b255ff596f3ab3379e9adaf/) (Laryngoscope, 2025, 0 citací)
+[^hearing-activity]: [Fyzická aktivita a fyzická zdatnost ve vztahu ke ztrátě sluchu u dospělých: systematický přehled](https://consensus.app/papers/details/3c058a760b255ff596f3ab3379e9adaf/) (Laryngoscope, 2025, 0 citací, [DOI](https://doi.org/10.1002/lary.32237))
 
-[^immune-nk]: [Účinky mírného tréninku na přirozené zabíječské buňky a akutní infekce horních cest dýchacích](https://consensus.app/papers/details/c12e6037834f5d5ebd8be1cfba9c522c/) (Int J Sports Medicine, 1990, 361 citací)
+[^immune-nk]: [Účinky mírného tréninku na přirozené zabíječské buňky a akutní infekce horních cest dýchacích](https://consensus.app/papers/details/c12e6037834f5d5ebd8be1cfba9c522c/) (Int J Sports Medicine, 1990, 361 citací, [DOI](https://doi.org/10.1055/s-2007-1024839))
 
-[^immune-elderly]: [Fyzická aktivita a imunitní funkce u starších žen](https://consensus.app/papers/details/43a59c4145335dcea86530557a4e90a0/) (Medicine and Science in Sports and Exercise, 1993, 441 citací)
+[^immune-elderly]: [Fyzická aktivita a imunitní funkce u starších žen](https://consensus.app/papers/details/43a59c4145335dcea86530557a4e90a0/) (Medicine and Science in Sports and Exercise, 1993, 441 citací, [DOI](https://doi.org/10.1249/00005768-199307000-00011))
 
-[^lymph-exercise]: [Cvičení a lymfatický systém](https://consensus.app/papers/details/a27186bc8b045e2eaa83cf300ccaef9e/) (Sports Medicine, 2005, 74 citací)
+[^lymph-exercise]: [Cvičení a lymfatický systém](https://consensus.app/papers/details/a27186bc8b045e2eaa83cf300ccaef9e/) (Sports Medicine, 2005, 74 citací, [DOI](https://doi.org/10.2165/00007256-200535060-00001))
 
-[^cancer-prevention]: [Fyzická aktivita v prevenci a přežití rakoviny: systematický přehled](https://consensus.app/papers/details/cd041a104bab5a78b2e24b06fc89881f/) (Medicine & Science in Sports & Exercise, 2019, 659 citací)
+[^cancer-prevention]: [Fyzická aktivita v prevenci a přežití rakoviny: systematický přehled](https://consensus.app/papers/details/cd041a104bab5a78b2e24b06fc89881f/) (Medicine & Science in Sports & Exercise, 2019, 659 citací, [DOI](https://doi.org/10.1249/mss.0000000000001937))
 
-[^cancer-mendelian]: [Fyzická aktivita a riziko rakoviny prsu a tlustého střeva: mendelovská randomizační analýza](https://consensus.app/papers/details/4389c3975f2e5a97b9d6539632cccbba/) (Nature Communications, 2020, 471 citací)
+[^cancer-mendelian]: [Fyzická aktivita a riziko rakoviny prsu a tlustého střeva: mendelovská randomizační analýza](https://consensus.app/papers/details/4389c3975f2e5a97b9d6539632cccbba/) (Nature Communications, 2020, 471 citací, [DOI](https://doi.org/10.1038/s41467-020-14389-8))
 
-[^bone-osteoporosis]: [Důkazy o fyzické aktivitě a prevenci osteoporózy u osob ve věku 65+ let](https://consensus.app/papers/details/3a6e8d2c1ed35810b13b034441bfd564/) (Int J Behavioral Nutrition and Physical Activity, 2020, 205 citací)
+[^bone-osteoporosis]: [Důkazy o fyzické aktivitě a prevenci osteoporózy u osob ve věku 65+ let](https://consensus.app/papers/details/3a6e8d2c1ed35810b13b034441bfd564/) (Int J Behavioral Nutrition and Physical Activity, 2020, 205 citací, [DOI](https://doi.org/10.1186/s12966-020-01040-4))
 
-[^falls-prevention]: [Důkazy o fyzické aktivitě a prevenci pádů u osob ve věku 65+ let](https://consensus.app/papers/details/e62238c7b8db5baaaca4918aeadbe963/) (Int J Behavioral Nutrition and Physical Activity, 2020, 1125 citací)
+[^falls-prevention]: [Důkazy o fyzické aktivitě a prevenci pádů u osob ve věku 65+ let](https://consensus.app/papers/details/e62238c7b8db5baaaca4918aeadbe963/) (Int J Behavioral Nutrition and Physical Activity, 2020, 1125 citací, [DOI](https://doi.org/10.1186/s12966-020-01041-3))
 
-[^sleep-meta]: [Účinky cvičení na kvalitu spánku a nespavost u dospělých: systematický přehled a meta-analýza](https://consensus.app/papers/details/141c3a3ff8095509ad3f484d83733967/) (Frontiers in Psychiatry, 2021, 127 citací)
+[^sleep-meta]: [Účinky cvičení na kvalitu spánku a nespavost u dospělých: systematický přehled a meta-analýza](https://consensus.app/papers/details/141c3a3ff8095509ad3f484d83733967/) (Frontiers in Psychiatry, 2021, 127 citací, [DOI](https://doi.org/10.3389/fpsyt.2021.664499))
 
-[^digestion-motility]: [Okamžitý účinek fyzické aktivity na střevní motilitu u zdravých dospělých](https://consensus.app/papers/details/669bd73aa2c25d0baa59e622dc9a5a0c/) (Scientific Reports, 2025, 0 citací)
+[^digestion-motility]: [Okamžitý účinek fyzické aktivity na střevní motilitu u zdravých dospělých](https://consensus.app/papers/details/669bd73aa2c25d0baa59e622dc9a5a0c/) (Scientific Reports, 2025, 0 citací, [DOI](https://doi.org/10.1038/s41598-025-18860-8))
 
-[^digestion-transit]: [Souvislosti mezi fyzickou aktivitou a dobou průchodu potravy trávicím traktem](https://consensus.app/papers/details/64a8acd78bbf52e1bddd7784de20a65c/) (J Nutrition, 2023, 15 citací)
+[^digestion-transit]: [Souvislosti mezi fyzickou aktivitou a dobou průchodu potravy trávicím traktem](https://consensus.app/papers/details/64a8acd78bbf52e1bddd7784de20a65c/) (J Nutrition, 2023, 15 citací, [DOI](https://doi.org/10.1016/j.tjnut.2023.06.005))
 
-[^energy-breaks]: [Vliv častých přerušení delšího sezení na vnímané úrovně energie, nálady, chuti k jídlu a kognitivních funkcí](https://consensus.app/papers/details/341dc00102da5a74bd1e6ef34f20834b/) (Int J Behavioral Nutrition and Physical Activity, 2016, 99 citací)
+[^energy-breaks]: [Vliv častých přerušení delšího sezení na vnímané úrovně energie, nálady, chuti k jídlu a kognitivních funkcí](https://consensus.app/papers/details/341dc00102da5a74bd1e6ef34f20834b/) (Int J Behavioral Nutrition and Physical Activity, 2016, 99 citací, [DOI](https://doi.org/10.1186/s12966-016-0437-z))
 
-[^vitamind-walking]: [Faktory prostředí a povolání spojené s nedostatkem vitaminu D u korejských dospělých](https://consensus.app/papers/details/b27f418af3905d3faeab721a836496b9/) (Int J Environmental Research and Public Health, 2020, 18 citací)
+[^vitamind-walking]: [Faktory prostředí a povolání spojené s nedostatkem vitaminu D u korejských dospělých](https://consensus.app/papers/details/b27f418af3905d3faeab721a836496b9/) (Int J Environmental Research and Public Health, 2020, 18 citací, [DOI](https://doi.org/10.3390/ijerph17249166))
 
-[^cortisol-meta]: [Fyzická aktivita a regulace kortizolu: meta-analýza](https://consensus.app/papers/details/584e86ab6f7556df9ebd078a7fe1a440/) (Biological Psychology, 2023, 33 citací)
+[^cortisol-meta]: [Fyzická aktivita a regulace kortizolu: meta-analýza](https://consensus.app/papers/details/584e86ab6f7556df9ebd078a7fe1a440/) (Biological Psychology, 2023, 33 citací, [DOI](https://doi.org/10.1016/j.biopsycho.2023.108548))
 
-[^creativity-stanford]: [Dejte svým nápadům nohy: pozitivní vliv chůze na kreativní myšlení](https://consensus.app/papers/details/b2618fae3f8b5c20b9909f314d85ec56/) (J Experimental Psychology, 2014, 487 citací)
+[^creativity-stanford]: [Dejte svým nápadům nohy: pozitivní vliv chůze na kreativní myšlení](https://consensus.app/papers/details/b2618fae3f8b5c20b9909f314d85ec56/) (J Experimental Psychology, 2014, 487 citací, [DOI](https://doi.org/10.1037/a0036577))
 
-[^selfesteem-body]: [Cvičení a vnímání vlastního těla: meta-analýza](https://consensus.app/papers/details/ca9e12e0c4ff5af5add76e21d31fb6f8/) (Psychology & Health, 2006, 497 citací)
+[^selfesteem-body]: [Cvičení a vnímání vlastního těla: meta-analýza](https://consensus.app/papers/details/ca9e12e0c4ff5af5add76e21d31fb6f8/) (Psychology & Health, 2006, 497 citací, [DOI](https://doi.org/10.1080/14768320500105270))
 
-[^social-loneliness]: [Kontext chůze a osamělost u starších dospělých žijících v komunitě](https://consensus.app/papers/details/4bf298adc52058eaa12372aac232a8a4/) (BMC Geriatrics, 2023, 11 citací)
+[^social-loneliness]: [Kontext chůze a osamělost u starších dospělých žijících v komunitě](https://consensus.app/papers/details/4bf298adc52058eaa12372aac232a8a4/) (BMC Geriatrics, 2023, 11 citací, [DOI](https://doi.org/10.1186/s12877-023-04043-5))
 
-[^shinrin-cortisol]: [Účinky lesní koupele (shinrin-yoku) na hladinu kortizolu jako biomarkeru stresu: systematický přehled a meta-analýza](https://consensus.app/papers/details/9e2f3fee63dc533fa75d4391954c57d4/) (Int J Biometeorology, 2019, 195 citací)
+[^shinrin-cortisol]: [Účinky lesní koupele (shinrin-yoku) na hladinu kortizolu jako biomarkeru stresu: systematický přehled a meta-analýza](https://consensus.app/papers/details/9e2f3fee63dc533fa75d4391954c57d4/) (Int J Biometeorology, 2019, 195 citací, [DOI](https://doi.org/10.1007/s00484-019-01717-x))
 
-[^mindfulness-meta]: [Programy založené na všímavosti pro podporu duševního zdraví dospělých v neklinických prostředích: systematický přehled a meta-analýza](https://consensus.app/papers/details/c141f0c70df85584b7e51269bec311b4/) (PLoS Medicine, 2021, 199 citací)
+[^mindfulness-meta]: [Programy založené na všímavosti pro podporu duševního zdraví dospělých v neklinických prostředích: systematický přehled a meta-analýza](https://consensus.app/papers/details/c141f0c70df85584b7e51269bec311b4/) (PLoS Medicine, 2021, 199 citací, [DOI](https://doi.org/10.1371/journal.pmed.1003481))
 
-[^grounding-review]: [Strategie integrativní a životního stylu by měly zahrnovat uzemnění (grounding): přehled výzkumných důkazů a klinických pozorování](https://consensus.app/papers/details/a55b7be6c88058a89e7fa6acb6679760/) (Explore, 2019, 17 citací)
+[^grounding-review]: [Strategie integrativní a životního stylu by měly zahrnovat uzemnění (grounding): přehled výzkumných důkazů a klinických pozorování](https://consensus.app/papers/details/a55b7be6c88058a89e7fa6acb6679760/) (Explore, 2019, 17 citací, [DOI](https://doi.org/10.1016/j.explore.2019.10.005))
