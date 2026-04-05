@@ -1,8 +1,8 @@
 ---
-title: 🚶‍♂️ Úvod do Chůze
+title: 🚶‍♂️ Chůze od A do Z
 description: Objevte svět chůze a její přínosy pro zdraví a pohodu. Naučte se, jak začít, jak udržet motivaci a získejte odpovědi na často kladené otázky o chůzi.
 sidebar:
-  label: 🚶‍♂️ Úvod
+  label: 🚶‍♂️ Chůze od A do Z
   order: 1
 ---
 
