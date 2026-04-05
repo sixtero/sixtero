@@ -2,7 +2,7 @@
 title: 🤔 Proč je chůze důležitá
 description: Proč je chůze důležitá pro naše zdraví, pohodu a spojení s přírodou.
 sidebar:
-  label: 🤔 Proč
+  label: 🤔 Proč je chůze důležitá
   order: 2
 ---
 
