@@ -36,4 +36,6 @@ Zde najdete návody a tipy pro chůzi, včetně toho, jak začít, jaké jsou zd
 
 ### Jak si užít chůzi
 
-### Procházky a příroda
+### Jak se motivovat k chůzi
+
+### Jak překonat překážky v chůzi
