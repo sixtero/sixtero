@@ -6,12 +6,12 @@ sidebar:
   order: 1
 ---
 
-## Vítejte v našem průvodci chůzí!
+## Vítejte v průvodci chůzí!
 
 Chůze je jednou z nejjednodušších a nejdostupnějších forem fyzické aktivity, která nabízí širokou škálu zdravotních přínosů. Ať už jste začátečník, který se chce rozchodit, nebo zkušený chodec hledající nové tipy a motivaci, tento průvodce vám poskytne všechny potřebné informace a inspiraci pro vaši chůzi.
 
-### Proč chodit
+### 🚶‍♂️ Proč je chůze důležitá
 
-### Často kladené dotazy (FAQ)
+### ❓ Časté dotazy
 
-### Velký průvodce chůzí
+### 🗺️ Průvodce chůzí
