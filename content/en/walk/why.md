@@ -6,7 +6,7 @@ sidebar:
   order: 2
 ---
 
-Discover the reasons why walking is important for our health 💪, well-being 😊, and connection to nature 🌿:
+Discover the reasons why walking is important for our health 💪, well-being 😊, connection to nature 🌿, and a better world around us 🌍:
 
 ## Heart, Metabolism, and Longevity
 
@@ -138,33 +138,61 @@ Walking can be a form of moving meditation -- focusing on breath, steps, and sur
 
 Regular walking strengthens psychological resilience 💪 -- the ability to cope with stressful situations and recover from them more quickly. A study found that walking is the best predictor of psychological resilience and mental well-being. Regular physical activity strengthens the brain's stress resistance through neurotrophic factors and reduced inflammation. [^resilience-walking] [^resilience-neuro]
 
+## Environment, Climate, and Community
+
+How more walkers change the world around us 🌍 -- cleaner air, quieter streets, and stronger communities.
+
+### 31. 🌬️ Cleaner Air -- Less Smog and Dust
+
+Every trip on foot instead of by car means fewer toxic substances in the air. Traffic emissions cause approximately 385,000 premature deaths worldwide annually from fine particles (PM2.5) and ozone 💀. In European cities, meeting WHO air quality guidelines would prevent 51,000 deaths annually. More walkers = fewer cars = cleaner air for everyone. [^traffic-mortality-global] [^traffic-pm25-europe]
+
+### 32. ☠️ Fewer Toxic Particles from Tires and Brakes
+
+Wear emissions (from tires, brakes, and road surfaces) now account for up to 90% of all particulate pollution from transport 🚗. Tire wear is the main source of microplastics in the environment -- an average of 0.8 kg per person annually worldwide. These particles contain heavy metals and carcinogenic substances whose cancer risk exceeds safety thresholds 2.7--4.6 times. Fewer cars on the roads = fewer of these invisible toxic particles. [^non-exhaust-90pct] [^tire-microplastics] [^tire-carcinogenic]
+
+### 33. 🔇 Less Noise -- Quieter and Healthier Streets
+
+Traffic noise is a silent killer. According to the WHO, it causes the loss of at least 1.6 million healthy life years (DALYs) annually in Western Europe 🔊. Nighttime noise disrupts sleep, increases stress hormone levels, and raises the risk of cardiovascular disease. In the EU, traffic noise is responsible for an estimated 12,000 premature deaths and 48,000 new cases of ischemic heart disease annually. Every pedestrian instead of a car means a quieter street. [^noise-cvd-review] [^noise-nighttime]
+
+### 34. 🌱 Less CO2 -- Climate Protection
+
+Active transport (walking and cycling) is an effective tool against climate change 🌡️. Cyclists have 84% lower lifetime CO2 emissions than drivers. Every trip on foot saves 0.41 kg of CO2, and every skipped car trip saves an additional 2.11 kg of CO2. In the US, replacing short car trips with active transport could reduce transport CO2 emissions by 24% and prevent 167,000 premature deaths annually. [^co2-active-travel] [^active-transport-us]
+
+### 35. 🏘️ Walkable Cities -- Healthier and Happier Communities
+
+People in walkable cities are demonstrably happier, healthier, and more trusting of each other 🤝. Having services and shops within walking distance increases social interactions with neighbors, raises property values, and reduces crime. A systematic review of 30 studies showed that investments in pedestrian infrastructure deliver health and economic benefits with a median benefit-to-cost ratio of 9:1 💰. [^walkable-happiness] [^walkable-crime-value] [^active-transport-hia]
+
+### 36. 🚸 Safer Streets for Everyone
+
+The more people walk, the safer the streets are -- not just for pedestrians, but for everyone. This phenomenon is called "safety in numbers": with each additional pedestrian, the probability of being hit by a motorist decreases 🚗. Drivers adjust their behavior to the presence of pedestrians and cyclists. With a massive shift from cars to walking, the total number of accidents can even decrease. European countries that invested in safe pedestrian infrastructure reduced pedestrian fatalities by 66--80% over the past three decades. [^safety-in-numbers] [^safety-nonlinear]
+
 ## Overall Quality of Life and Prevention
 
-### 31. 📊 Every Step Counts
+### 37. 📊 Every Step Counts
 
 A large meta-analysis showed that health benefits begin from as few as approximately 2,500 steps per day. The optimal dose is around 7,000--9,000 steps. There is no "too few" -- every step contributes to health. [^jacc2023] [^lancet2022]
 
-### 32. 🔥 Sexual Health and Function
+### 38. 🔥 Sexual Health and Function
 
 Walking demonstrably improves sexual function in both men and women. A Mendelian randomization study showed that brisk walking has a causal protective effect -- reducing the risk of erectile dysfunction by up to 76%. A meta-analysis of 11 randomized studies confirmed that aerobic exercise including walking significantly improves erectile function 💪, with effects comparable to pharmacological treatment. [^ed-mendelian] [^ed-meta-rct]
 
-### 33. 👶 Fertility and Reproductive Health
+### 39. 👶 Fertility and Reproductive Health
 
 Regular physical activity improves sperm quality and the chance of conception 🧬. A large meta-analysis of 6 randomized studies (1,637 men) showed significant improvements in sperm concentration, motility, count, and morphology, as well as higher pregnancy and live birth rates. A study of 746 healthy men found that higher physical activity increases sperm motility by 16--17%. [^fertility-meta] [^fertility-sperm-donors]
 
-### 34. ✨ Skin Health and Youthful Appearance
+### 40. ✨ Skin Health and Youthful Appearance
 
 Regular walking improves skin blood flow, supports collagen production, and slows visible skin aging 🔬. A study showed that exercise slows age-related skin changes through interleukin-15 (IL-15), which protects mitochondrial function in skin cells. Further research found that exercise increases skin blood flow eightfold and improves skin elasticity and hydration. [^skin-il15] [^skin-blood-flow]
 
-### 35. 🩸 Stroke Prevention
+### 41. 🩸 Stroke Prevention
 
 Meta-analyses have shown that a faster walking pace significantly reduces the risk of stroke. The fastest walkers have substantially lower risk compared to the slowest, and overall higher physical activity reduces the risk by approximately one quarter. [^stroke-pace] [^stroke-meta]
 
-### 36. 🏠 Independence and Self-Sufficiency in Old Age
+### 42. 🏠 Independence and Self-Sufficiency in Old Age
 
 Regular walking is key to maintaining self-sufficiency in old age 👴👵 -- the ability to take care of yourself, live at home, and not depend on others. A large randomized study (1,635 older adults) showed that just 48 extra minutes of physical activity per week significantly reduces the risk of mobility loss. A three-year study confirmed that active seniors experience significantly less decline in physical abilities than inactive ones. [^independence-life] [^independence-3yr]
 
-Walking is a simple yet powerful way to improve your health 💪, well-being 😊, and connection to nature 🌿. So why not go for a walk today? 🚶‍♂️
+Walking is a simple yet powerful way to improve your health 💪, well-being 😊, connection to nature 🌿, and the world around us 🌍. So why not go for a walk today? 🚶‍♂️
 
 ---
 
@@ -275,3 +303,31 @@ Walking is a simple yet powerful way to improve your health 💪, well-being �
 [^shinrin-cortisol]: [Effects of forest bathing (shinrin-yoku) on levels of cortisol as a stress biomarker: a systematic review and meta-analysis](https://consensus.app/papers/details/9e2f3fee63dc533fa75d4391954c57d4/) (Int J Biometeorology, 2019, 195 citations, [DOI](https://doi.org/10.1007/s00484-019-01717-x))
 
 [^mindfulness-meta]: [Mindfulness-based programmes for mental health promotion in adults in nonclinical settings: A systematic review and meta-analysis](https://consensus.app/papers/details/c141f0c70df85584b7e51269bec311b4/) (PLoS Medicine, 2021, 199 citations, [DOI](https://doi.org/10.1371/journal.pmed.1003481))
+
+[^traffic-mortality-global]: [Global burden of mortality from traffic exhaust emissions and ambient air pollution in 2010 and 2015](https://consensus.app/papers/details/1d09be0afd5b5bba87af6e2ad2f63455/) (Environmental Research Letters, 2019, 117 citations, [DOI](https://doi.org/10.1088/1748-9326/ab5e21))
+
+[^traffic-pm25-europe]: [Premature mortality due to air pollution in European cities: a health impact assessment](https://consensus.app/papers/details/b533cc1062495fdbad69aaf10d03f3c7/) (Lancet Planetary Health, 2021, 348 citations, [DOI](<https://doi.org/10.1016/S2542-5196(20)30272-2>))
+
+[^non-exhaust-90pct]: [Non-exhaust particulate emissions from road traffic: sources, characterisation and mitigation measures](https://consensus.app/papers/details/a7957871b6af51e69dfce6c95cd094f5/) (Science of the Total Environment, 2021, 237 citations, [DOI](https://doi.org/10.1016/j.scitotenv.2020.142672))
+
+[^tire-microplastics]: [Tire wear particles: an inconspicuous source of microplastics in the environment](https://consensus.app/papers/details/870101a0dd5b5222846217a73713fe8f/) (Int J Environmental Research and Public Health, 2017, 1,066 citations, [DOI](https://doi.org/10.3390/ijerph14101265))
+
+[^tire-carcinogenic]: [Chemical composition and potential health risks of tire and road wear microplastics from light-duty vehicles in an urban tunnel in China](https://consensus.app/papers/details/3b70025608b857299a2152acf25815f4/) (Environmental Pollution, 2023, 26 citations, [DOI](https://doi.org/10.1016/j.envpol.2023.121494))
+
+[^noise-cvd-review]: [Transportation noise and cardiovascular disease](https://consensus.app/papers/details/dc1e9d6b113c54419130f73483e67330/) (Nature Reviews Cardiology, 2021, 375 citations, [DOI](https://doi.org/10.1038/s41569-021-00532-5))
+
+[^noise-nighttime]: [Adverse cardiovascular effects of traffic noise with a focus on nighttime noise and the new WHO noise guidelines](https://consensus.app/papers/details/aeabdc2953735540a2a8a660bd651c2e/) (Annual Review of Public Health, 2020, 157 citations, [DOI](https://doi.org/10.1146/annurev-publhealth-081519-062400))
+
+[^co2-active-travel]: [The role of active travel in climate change mitigation in cities](https://consensus.app/papers/details/92d8bc8594455d4a9e5e649985712e79/) (Transportation Research Part D, 2021, 209 citations, [DOI](https://doi.org/10.1016/j.trd.2021.102764))
+
+[^active-transport-us]: [Health benefits of strategies for carbon mitigation in US transportation, 2017--2050](https://consensus.app/papers/details/cba4e289020454d69d88d9811ccd67ff/) (American Journal of Public Health, 2022, 14 citations, [DOI](https://doi.org/10.2105/AJPH.2021.306600))
+
+[^walkable-happiness]: [Walkable neighborhoods: the relationship between walkability and resident happiness](https://consensus.app/papers/details/08d56c2d49475b27bd9e3b67e05959cd/) (Journal of the American Planning Association, 2023, 12 citations)
+
+[^walkable-crime-value]: [Does walkability matter? The impact of walkability on property values, foreclosures, and crime](https://consensus.app/papers/details/2f0a8f188d0c5843982d16875c958d25/) (Cities, 2015, 245 citations, [DOI](https://doi.org/10.1016/j.cities.2014.07.004))
+
+[^active-transport-hia]: [Health impact assessment of active transportation: a systematic review](https://consensus.app/papers/details/5582b42c23095a21a7e41f28ba9e9fb4/) (Preventive Medicine, 2015, 739 citations, [DOI](https://doi.org/10.1016/j.ypmed.2015.01.029))
+
+[^safety-in-numbers]: [Safety in numbers: more walkers and bicyclists, safer walking and bicycling](https://consensus.app/papers/details/acf91290e5e553ec90d1c05698b481f7/) (Injury Prevention, 2003, 882 citations, [DOI](https://doi.org/10.1136/ip.9.3.205))
+
+[^safety-nonlinear]: [Non-linearity of risk and the promotion of environmentally sustainable transport](https://consensus.app/papers/details/ddb904753c7e595da42aff02aae53b22/) (Accident Analysis & Prevention, 2009, 383 citations, [DOI](https://doi.org/10.1016/j.aap.2009.04.009))
