@@ -1,47 +1,62 @@
 ---
-title: 👣 Tipy pro chůzi
-description: Tipy pro chůzi -- od zapojení prstů přes volbu obuvi až po chůzi v přírodě.
+title: 👣 Tipy na chůzi
+description: Tipy na chůzi
+draft: true
 sidebar:
-  label: 👣 Tipy pro chůzi
+  label: 👣 Tipy na chůzi
   order: 7
 ---
 
-## Správná chůze a její přínosy pro zdraví
+## Tipy na procházku
 
-### Šest tipů pro správnou chůzi
+### 1. Studánky, Vodopády, Jezy v okolí
 
-Šest tipů pro správnou chůzi -- od zapojení prstů přes volbu obuvi až po chůzi v přírodě. S odbornou garancí rehabilitačního lékaře MUDr. Petra Štourače.
+### 2. Vodní plochy v okolí
 
-1. 💪 **Chůze jako základ zdraví celého těla**:
-   Pohyb pomáhá udržovat napětí kosterních svalů a správnou stabilitu těla v prostoru. Chůze také snižuje hladinu stresových hormonů a podporuje tvorbu endorfinů. Lidské tělo není stvořeno k celodennímu sezení -- stačí vyrazit do přírody, ideálně ve správné obuvi nebo bosky.
+### 3. Vyhlídky v okolí
 
-2. 👶 **Inspirujte se dětmi**:
-   Malé děti chodí přirozeně -- instinktivně došlapují na špičky. S přibývajícím věkem a návykem nosit boty se váha postupně přenáší na zadní část chodidla. Tento špatný vzorec může přispívat ke vzniku plochých nohou.
+### 4. Památky v okolí
 
-3. 🦶 **Zapojujte prsty**:
-   Opora prstů je klíčová -- tvoří důležitou oporu pro celou nohu. Lékaři se běžně setkávají s pacienty, kteří stojí na polštářcích přední části nohou a prsty se nedotýkají podložky. Vyzkoušejte chůzi bosky po písku, abyste si uvědomili, jak prsty fungují.
+### 5. Přírodní zajímavosti v okolí
 
-4. 👟 **Problém tvrdých bot a tvrdých povrchů**:
-   Špatné celoživotní návyky při chůzi jsou způsobeny primárně nadužíváním tvrdé podrážky bot a chozením po tvrdém povrchu od mladého věku. Moderní boty jsou stále dokonalejší, ale paradoxně nohám neprospívají. Děti by měly co nejvíce chodit po trávě a měkkém povrchu.
+### 6. Místa pro piknik v okolí
 
-5. 🧍 **Držení těla a stabilita**:
-   Chůze po nerovném povrchu vede ke správné neuromuskulární stabilizaci. Stabilizační mechanismus nohy lze přirovnat ke spirálovité pružině -- pokud ji netrénujeme, ochabuje, propadá se podélná i příčná klenba. Správná funkce nohy ovlivňuje celkovou stabilitu trupu ve třech rovinách: pánevní, bránice a dutiny ústní.
+## Tipy na výlet
 
-6. 🌲 **Choďte do přírody**:
-   Přirozený terén je nejlepší trénink. Nohy potřebují různorodost povrchů -- chůze přes kořeny, šišky a nezpevněný povrch v lese je ideální. Nohy se při chůzi roztahují do šířky i délky -- rozkmit může dosáhnout 5--7 milimetrů podle intenzity pohybu.
+### 7. Hrady a zámky v okolí
 
----
+### 8. Přírodní rezervace v okolí
 
-**Barefoot obuv** díky tenké podrážce umožňuje chodidlům vnímat povrch. Je vhodná pro zdravé nohy, ale není doporučena při:
+### 9. Naučné stezky v okolí
 
-- diabetické noze
-- závažných ortopedických vadách
-- plochých nohách
-- vbočených palcích
-- neuropatii dolních končetin
+### 10. Místa pro kempování v okolí
 
-Při přechodu na barefoot obuv je důležité začínat postupně a naslouchat tělu.
+### 11. Místa pro koupání v okolí
 
----
+### 12. Místa pro turistiku v okolí
 
-Zdroj: [Šest tipů pro správnou chůzi](https://nasezdravotnictvi.cz/aktualita/sest-tipu-pro-spravnou-chuzi-jakou-pri-ni-delame-nejvetsi-chybu), NašeZdravotnictví.cz, 22. 5. 2024. Odborná garance: MUDr. Petr Štourač, rehabilitační lékař a podiatra.
+## Tipy na pochod
+
+### 13. Pochodové trasy v okolí
+
+### 14. Pochodové akce v okolí
+
+## Tipy na túru
+
+### 15. Stezky Via Czechia
+
+### 16. Stezka Českem
+
+### 17. Zlatá stezka
+
+- https://zlatoustezkou.cz
+
+### 18. Jiráskova cesta
+
+- https://cs.wikipedia.org/wiki/Jir%C3%A1skova_cesta
+- https://mapy.com/cs/turisticka?source=base&id=2174950&x=16.4308966&y=50.2201670&z=10
+
+- Klostermannova cesta
+- https://kct.cz/turisticke-znaceni/dalkove-pesi-mezinarodni-trasy/
+- https://www.idnes.cz/cestovani/po-cesku/vikend-vylety-cesko-tury-hocek-via-czechia.A250729_858731_po-cesku_hig
+- https://www.kudyznudy.cz/aktuality/nejkrasnejsi-turisticke-trasy-v-cesku-stezky-ktere

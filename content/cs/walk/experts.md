@@ -1,6 +1,7 @@
 ---
 title: 🧑‍⚕️ Rady odborníků
 description: Co říkají odborníci o chůzi a jejích přínosech pro zdraví, spalování tuků a duševní pohodu.
+draft: true
 sidebar:
   label: 🧑‍⚕️ Rady odborníků
   order: 8

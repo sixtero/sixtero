@@ -1,6 +1,7 @@
 ---
 title: 🗺️ Průvodce chůzí
 description: Kompletní průvodce chůzí, včetně zdravotních přínosů, tipů pro začátečníky a motivace k pravidelné chůzi.
+draft: true
 sidebar:
   label: 🗺️ Průvodce chůzí
   order: 4

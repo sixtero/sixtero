@@ -1,9 +1,10 @@
 ---
 title: 📱 Aplikace pro chůzi
 description: Přehled aplikací pro chůzi na Androidu i iOS, tipy jak je vybrat, nastavit a efektivně používat pro sledování kroků, plánování tras i udržení motivace.
+draft: true
 sidebar:
   label: 📱 Aplikace pro chůzi
-  order:
+  order: 11
 ---
 
 Aplikace pro chůzi vám pomohou sledovat kroky, měřit vzdálenost, mapovat trasy a hlavně udržet motivaci. V této sekci najdete přehled nejpoužívanějších aplikací a tipy, jak z nich vytěžit maximum.

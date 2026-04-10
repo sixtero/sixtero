@@ -1,6 +1,7 @@
 ---
 title: 🧩 Chůze a naše potřeby
 description: Chůze pomáhá naplňovat široké spektrum lidských potřeb – od těch základních biologických až po potřeby sociální a psychické.
+draft: true
 sidebar:
   label: 🧩 Chůze a naše potřeby
   order: 10

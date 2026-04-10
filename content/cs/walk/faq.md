@@ -1,6 +1,7 @@
 ---
 title: ❓ Časté dotazy
 description: Nejčastější dotazy a odpovědi týkající se chůze, zdraví a pohybu.
+draft: true
 sidebar:
   label: ❓ Časté dotazy
   order: 3

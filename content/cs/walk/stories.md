@@ -1,6 +1,7 @@
 ---
 title: 📖 Příběhy o chůzi
 description: Inspirativní příběhy o chůzi, které ukazují, jak může chůze změnit životy lidí a přinést jim zdraví, štěstí a nové zážitky.
+draft: true
 sidebar:
   label: 📖 Příběhy o chůzi
   order: 9

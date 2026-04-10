@@ -1,6 +1,7 @@
 ---
 title: 🔢 Metoda chůze 6-6-6
 description: Jak metoda 6-6-6 může zlepšit vaše zdraví, spalování tuků a duševní pohodu.
+draft: true
 sidebar:
   label: 🔢 Metoda chůze 6-6-6
   order: 6
