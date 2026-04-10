@@ -6,7 +6,11 @@ sidebar:
   order: 2
 ---
 
-Seznamte se s důvody, proč je chůze důležitá pro naše zdraví 💪, pohodu 😊 a spojení s přírodou 🌿:
+Seznamte se s důvody, proč je chůze důležitá pro naše zdraví 💪, pohodu 😊, spojení s přírodou 🌿 a lepší svět kolem nás 🌍:
+
+:::tip[📊 Každý krok se počítá]
+Rozsáhlá meta-analýza prokázala, že zdravotní přínosy začínají už od zhruba 2 500 kroků denně 👣. Optimální dávka je kolem 7 000--9 000 kroků. Neexistuje "příliš málo" -- každý krok přispívá ke zdraví. [^jacc2023] [^lancet2022]
+:::
 
 ## Srdce, metabolismus a dlouhověkost
 
@@ -150,35 +154,35 @@ Chůze může být formou pohybové meditace -- soustředění na dech, kroky a 
 
 Pravidelná chůze posiluje psychickou odolnost 💪 -- schopnost zvládat stresové situace a rychleji se z nich zotavit. Studie prokázala, že chůze je nejlepším prediktorem psychické odolnosti a duševní pohody. Pravidelný pohyb posiluje stresovou odolnost mozku prostřednictvím neurotrofních faktorů a snížení zánětu. [^resilience-walking] [^resilience-neuro]
 
-## Celková kvalita života a prevence
+## Prostředí, klima a komunita
 
-Jak chůze zlepšuje kvalitu života ⚕️, chrání před nemocemi 🩺 a posiluje soběstačnost 💪.
+Jak více chodců mění svět kolem nás 🌍 -- čistější vzduch, tišší ulice a silnější komunity.
 
-### 31. 📊 Každý krok se počítá
+### 31. 🌬️ Čistější vzduch -- méně smogu a prachu
 
-Rozsáhlá meta-analýza prokázala, že zdravotní přínosy začínají už od zhruba 2 500 kroků denně 👣. Optimální dávka je kolem 7 000--9 000 kroků. Neexistuje "příliš málo" -- každý krok přispívá ke zdraví. [^jacc2023] [^lancet2022]
+Každá cesta pěšky místo autem znamená méně jedovatých látek ve vzduchu. Dopravní emise způsobují celosvětově přibližně 385 000 předčasných úmrtí ročně na následky jemných částic (PM2.5) a ozónu 💀. V evropských městech by splnění doporučení WHO pro kvalitu ovzduší zabránilo 51 000 úmrtím ročně. Více chodců = méně aut = čistější vzduch pro všechny. [^traffic-mortality-global] [^traffic-pm25-europe]
 
-### 32. 🔥 Sexuální zdraví a funkce
+### 32. ☠️ Méně jedovatých částic z pneumatik a brzd
 
-Chůze prokazatelně zlepšuje sexuální funkce u mužů i žen. Mendelovská randomizační studie prokázala, že svižná chůze má kauzální ochranný účinek -- snižuje riziko erektilní dysfunkce až o 76 %. Meta-analýza 11 randomizovaných studií potvrdila, že aerobní cvičení včetně chůze významně zlepšuje erektilní funkci 💪, přičemž účinky jsou srovnatelné s farmakologickou léčbou. [^ed-mendelian] [^ed-meta-rct]
+Neexhalační emise (otěr pneumatik, brzd a vozovky) dnes tvoří až 90 % veškerého částicového znečištění z dopravy 🚗. Otěr pneumatik je hlavním zdrojem mikroplastů v životním prostředí -- v průměru 0,8 kg na osobu ročně celosvětově. Tyto částice obsahují těžké kovy a karcinogenní látky, jejichž rakovinotvorné riziko překračuje bezpečnostní prahy 2,7--4,6krát. Méně aut na silnicích = méně těchto neviditelných jedovatých částic. [^non-exhaust-90pct] [^tire-microplastics] [^tire-carcinogenic]
 
-### 33. 👶 Plodnost a reprodukční zdraví
+### 33. 🔇 Méně hluku -- tišší a zdravější ulice
 
-Pravidelný pohyb zlepšuje kvalitu spermií i šanci na početí 🧬. Rozsáhlá meta-analýza 6 randomizovaných studií (1 637 mužů) prokázala významné zlepšení koncentrace, pohyblivosti, počtu i morfologie spermií a také vyšší míru otěhotnění a živých porodů. Studie u 746 zdravých mužů ukázala, že vyšší fyzická aktivita zvyšuje pohyblivost spermií o 16--17 %. [^fertility-meta] [^fertility-sperm-donors]
+Dopravní hluk je tichým zabijákem. Podle WHO způsobuje v západní Evropě ztrátu minimálně 1,6 milionu zdravých let života (DALY) ročně 🔊. Noční hluk narušuje spánek, zvyšuje hladinu stresových hormonů a riziko kardiovaskulárních onemocnění. V EU je dopravní hluk odpovědný za odhadovaných 12 000 předčasných úmrtí a 48 000 nových případů ischemické choroby srdeční ročně. Každý chodec místo auta je o kus tišší ulice. [^noise-cvd-review] [^noise-nighttime]
 
-### 34. ✨ Zdraví kůže a mladistvý vzhled
+### 34. 🌱 Méně CO2 -- ochrana klimatu
 
-Pravidelná chůze zlepšuje prokrvení kůže, podporuje tvorbu kolagenu a zpomaluje viditelné stárnutí 🔬. Studie prokázala, že cvičení zpomaluje věkem podmíněné změny kůže prostřednictvím interleukinu-15 (IL-15), který chrání mitochondriální funkci kožních buněk. Další výzkum ukázal, že cvičení zvyšuje prokrvení kůže osminásobně a zlepšuje její elasticitu a hydrataci. [^skin-il15] [^skin-blood-flow]
+Aktivní doprava (chůze a jízda na kole) je účinným nástrojem proti klimatické změně 🌡️. Cyklisté mají o 84 % nižší životní emise CO2 než řidiči. Každá cesta pěšky ušetří 0,41 kg CO2 a každá vynechaná cesta autem dalších 2,11 kg CO2. V USA by nahrazení krátkých cest autem aktivní dopravou mohlo snížit emise CO2 z dopravy o 24 % a zabránit 167 000 předčasným úmrtím ročně. [^co2-active-travel] [^active-transport-us]
 
-### 35. 🩸 Prevence cévní mozkové příhody
+### 35. 🏘️ Města pro pěší -- zdravější a šťastnější komunity
 
-Meta-analýzy prokázaly, že rychlejší tempo chůze výrazně snižuje riziko mozkové mrtvice. Nejrychlejší chodci 🏃 mají podstatně nižší riziko oproti nejpomalejším a celkově vyšší pohybová aktivita snižuje riziko přibližně o čtvrtinu. [^stroke-pace] [^stroke-meta]
+Lidé v městech pro pěší (walkable cities) jsou prokazatelně šťastnější, zdravější a více si vzájemně důvěří 🤝. Dostupnost služeb a obchodů v docházkové vzdálenosti zvyšuje sociální interakce se sousedy, zvyšuje hodnotu nemovitostí a snižuje kriminalitu. Systematický přehled 30 studií ukázal, že investice do pěší infrastruktury přinášejí zdravotní i ekonomické přínosy s mediánem poměru přínosů k nákladům 9:1 💰. [^walkable-happiness] [^walkable-crime-value] [^active-transport-hia]
 
-### 36. 🏠 Nezávislost a soběstačnost ve stáří
+### 36. 🚸 Bezpečnější ulice pro všechny
 
-Pravidelná chůze je klíčem k zachování soběstačnosti ve stáří 👴👵 -- schopnosti postarat se sám o sebe, žít doma a nebýt závislý na pomoci druhých. Velká randomizovaná studie (1 635 seniorů) prokázala, že již 48 minut pohybu navíc týdně významně snižuje riziko ztráty mobility. Tříletá studie potvrdila, že aktivní senioři mají výrazně menší pokles fyzických schopností než neaktivní. [^independence-life] [^independence-3yr]
+Čím více lidí chodí pěšky, tím bezpečnější jsou ulice -- nejen pro chodce, ale pro všechny. Tento jev se nazývá „bezpečnost v počtech" (safety in numbers): s každým dalším chodcem klesá pravděpodobnost, že bude sražen motoristou 🚗. Řidiči totiž přizpůsobují své chování přítomnosti chodců a cyklistů. Při masivním přesunu cest z aut na chůzi může celkový počet nehod dokonce klesnout. Evropské země, které investovaly do bezpečné infrastruktury pro chodce, snížily počet úmrtí chodců o 66--80 % za poslední tři dekády. [^safety-in-numbers] [^safety-nonlinear]
 
-Chůze je jednoduchý, ale účinný způsob, jak zlepšit své zdraví 💪, pohodu 😊 a spojení s přírodou 🌿. Tak proč nevyrazit na procházku ještě dnes? 🚶‍♂️
+Chůze je jednoduchý, ale účinný způsob, jak zlepšit své zdraví 💪, pohodu 😊, spojení s přírodou 🌿 a svět kolem nás 🌍. Tak proč nevyrazit na procházku ještě dnes? 🚶‍♂️
 
 ---
 
@@ -228,26 +232,6 @@ Chůze je jednoduchý, ale účinný způsob, jak zlepšit své zdraví 💪, po
 
 [^resilience-neuro]: [Únik před stresem: neurobiologické mechanismy stresové odolnosti vyvolané cvičením](https://consensus.app/papers/details/372599d32a73535f97eb3666665b25c7/) (Int J Molecular Sciences, 2022, 59 citací, [DOI](https://doi.org/10.3390/ijms23073938))
 
-[^ed-mendelian]: [Zvýšené tempo chůze snižuje míru erektilní dysfunkce: výsledky mendelovské randomizační studie](https://consensus.app/papers/details/96eeb46086ce54a0bdfa7bf7071c6e7c/) (J Sexual Medicine, 2024, 0 citací, [DOI](https://doi.org/10.1093/jsxmed/qdae001))
-
-[^ed-meta-rct]: [Účinek aerobního cvičení na erektilní funkci: systematický přehled a meta-analýza randomizovaných kontrolovaných studií](https://consensus.app/papers/details/0f3ff3ee94205222bb636a5c82df34a4/) (J Sexual Medicine, 2023, 19 citací, [DOI](https://doi.org/10.1093/jsxmed/qdad040))
-
-[^stroke-pace]: [Tempo chůze a riziko mozkové mrtvice: meta-analýza prospektivních kohortních studií](https://consensus.app/papers/details/1a43ab9adc1356be8132bd596250bfea/) (J Sport and Health Science, 2019, 25 citací, [DOI](https://doi.org/10.1016/j.jshs.2019.09.005))
-
-[^stroke-meta]: [Fyzická aktivita a riziko mozkové mrtvice: meta-analýza](https://consensus.app/papers/details/a48b4ce0947052d99f22c94f197b658c/) (Stroke, 2003, 817 citací, [DOI](https://doi.org/10.1161/01.str.0000091843.02517.9d))
-
-[^fertility-meta]: [Účinky fyzické aktivity na parametry plodnosti: meta-analýza randomizovaných kontrolovaných studií](https://consensus.app/papers/details/aa8c3cafa2a559d8b21a66efd6e98b88/) (World J Men's Health, 2024, 7 citací, [DOI](https://doi.org/10.5534/wjmh.230208))
-
-[^fertility-sperm-donors]: [Fyzická aktivita a sedavé chování ve vztahu ke kvalitě spermií u zdravých mužů](https://consensus.app/papers/details/14681ccdb5d35325861854c0f8b8e7ed/) (Human Reproduction, 2019, 45 citací, [DOI](https://doi.org/10.1093/humrep/dez137))
-
-[^skin-il15]: [Cvičením stimulovaný interleukin-15 je řízen AMPK a reguluje metabolismus a stárnutí kůže](https://consensus.app/papers/details/114ec865f7905fd9be5928bd92858d5d/) (Aging Cell, 2015, 151 citací, [DOI](https://doi.org/10.1111/acel.12341))
-
-[^skin-blood-flow]: [Potenciál cvičení na životní styl a funkci kůže: přehled](https://consensus.app/papers/details/5325e746bd6855a79ca12eac4d21e2b6/) (JMIR Dermatology, 2023, 16 citací, [DOI](https://doi.org/10.2196/40170))
-
-[^independence-life]: [Dávka fyzické aktivity, fyzické funkce a riziko disability u seniorů s omezenou pohyblivostí: výsledky studie LIFE](https://consensus.app/papers/details/2ded9a7115c254f094802c075968731e/) (PLoS ONE, 2017, 118 citací, [DOI](https://doi.org/10.1371/journal.pone.0182155))
-
-[^independence-3yr]: [Funkční kapacita a úrovně fyzické aktivity při stárnutí: tříletá studie](https://consensus.app/papers/details/3237a02c682b559a8ece6cbbe9a4eebb/) (Frontiers in Medicine, 2018, 91 citací, [DOI](https://doi.org/10.3389/fmed.2017.00244))
-
 [^walking-lung-elderly]: [Vliv chůze jako fyziologického tréninku na zlepšení respiračních parametrů u starší populace](https://consensus.app/papers/details/01ddc38dac655d62a5fe40fb31c87d3c/) (Int J Environmental Research and Public Health, 2022, 12 citací, [DOI](https://doi.org/10.3390/ijerph19159589))
 
 [^lung-fev1-prospective]: [Intenzivní fyzická aktivita ve volném čase je spojena s lepší plicní funkcí: prospektivní studie ECRHS](https://consensus.app/papers/details/91c0a2d4bf0a5b10b73ef446bb7428f1/) (Thorax, 2018, 76 citací, [DOI](https://doi.org/10.1136/thoraxjnl-2016-209209))
@@ -289,3 +273,31 @@ Chůze je jednoduchý, ale účinný způsob, jak zlepšit své zdraví 💪, po
 [^shinrin-cortisol]: [Účinky lesní koupele (shinrin-yoku) na hladinu kortizolu jako biomarkeru stresu: systematický přehled a meta-analýza](https://consensus.app/papers/details/9e2f3fee63dc533fa75d4391954c57d4/) (Int J Biometeorology, 2019, 195 citací, [DOI](https://doi.org/10.1007/s00484-019-01717-x))
 
 [^mindfulness-meta]: [Programy založené na všímavosti pro podporu duševního zdraví dospělých v neklinických prostředích: systematický přehled a meta-analýza](https://consensus.app/papers/details/c141f0c70df85584b7e51269bec311b4/) (PLoS Medicine, 2021, 199 citací, [DOI](https://doi.org/10.1371/journal.pmed.1003481))
+
+[^traffic-mortality-global]: [Celosvětová zátěž dopravních výfukových emisí na úmrtnost spojenou se znečištěním ovzduší v letech 2010 a 2015](https://consensus.app/papers/details/1d09be0afd5b5bba87af6e2ad2f63455/) (Environmental Research Letters, 2019, 117 citací, [DOI](https://doi.org/10.1088/1748-9326/ab5e21))
+
+[^traffic-pm25-europe]: [Předčasná úmrtnost v důsledku znečištění ovzduší v evropských městech: hodnocení zdravotních dopadů](https://consensus.app/papers/details/b533cc1062495fdbad69aaf10d03f3c7/) (Lancet Planetary Health, 2021, 348 citací, [DOI](<https://doi.org/10.1016/S2542-5196(20)30272-2>))
+
+[^non-exhaust-90pct]: [Neexhalační emise částic z provozu na pozemních komunikacích: zdroje, charakterizace a opatření ke zmírnění](https://consensus.app/papers/details/a7957871b6af51e69dfce6c95cd094f5/) (Science of the Total Environment, 2021, 237 citací, [DOI](https://doi.org/10.1016/j.scitotenv.2020.142672))
+
+[^tire-microplastics]: [Opotřebení pneumatik: nenápadný zdroj mikroplastů v životním prostředí](https://consensus.app/papers/details/870101a0dd5b5222846217a73713fe8f/) (Int J Environmental Research and Public Health, 2017, 1 066 citací, [DOI](https://doi.org/10.3390/ijerph14101265))
+
+[^tire-carcinogenic]: [Chemické složení a potenciální zdravotní rizika mikroplastů z otěru pneumatik a vozovky u lehkých vozidel v městském tunelu v Číně](https://consensus.app/papers/details/3b70025608b857299a2152acf25815f4/) (Environmental Pollution, 2023, 26 citací, [DOI](https://doi.org/10.1016/j.envpol.2023.121494))
+
+[^noise-cvd-review]: [Hluk z dopravy a kardiovaskulární onemocnění](https://consensus.app/papers/details/dc1e9d6b113c54419130f73483e67330/) (Nature Reviews Cardiology, 2021, 375 citací, [DOI](https://doi.org/10.1038/s41569-021-00532-5))
+
+[^noise-nighttime]: [Nepříznivé kardiovaskulární účinky dopravního hluku se zaměřením na noční hluk a nové směrnice WHO pro hluk](https://consensus.app/papers/details/aeabdc2953735540a2a8a660bd651c2e/) (Annual Review of Public Health, 2020, 157 citací, [DOI](https://doi.org/10.1146/annurev-publhealth-081519-062400))
+
+[^co2-active-travel]: [Účinky aktivní dopravy na zmírnění klimatické změny v městech](https://consensus.app/papers/details/92d8bc8594455d4a9e5e649985712e79/) (Transportation Research Part D, 2021, 209 citací, [DOI](https://doi.org/10.1016/j.trd.2021.102764))
+
+[^active-transport-us]: [Zdravotní přínosy strategií pro zmírnění uhlíkových emisí v dopravě v USA, 2017--2050](https://consensus.app/papers/details/cba4e289020454d69d88d9811ccd67ff/) (American Journal of Public Health, 2022, 14 citací, [DOI](https://doi.org/10.2105/AJPH.2021.306600))
+
+[^walkable-happiness]: [Pochůzné čtvrti: vztah mezi pochůzností a štěstím obyvatel](https://consensus.app/papers/details/08d56c2d49475b27bd9e3b67e05959cd/) (Journal of the American Planning Association, 2023, 12 citací)
+
+[^walkable-crime-value]: [Má pochůznost význam? Dopad pochůznosti na hodnotu nemovitostí, exekuce a kriminalitu](https://consensus.app/papers/details/2f0a8f188d0c5843982d16875c958d25/) (Cities, 2015, 245 citací, [DOI](https://doi.org/10.1016/j.cities.2014.07.004))
+
+[^active-transport-hia]: [Hodnocení zdravotních dopadů aktivní dopravy: systematický přehled](https://consensus.app/papers/details/5582b42c23095a21a7e41f28ba9e9fb4/) (Preventive Medicine, 2015, 739 citací, [DOI](https://doi.org/10.1016/j.ypmed.2015.01.029))
+
+[^safety-in-numbers]: [Bezpečnost v počtech: více chodců a cyklistů, bezpečnější chůze a cyklistika](https://consensus.app/papers/details/acf91290e5e553ec90d1c05698b481f7/) (Injury Prevention, 2003, 882 citací, [DOI](https://doi.org/10.1136/ip.9.3.205))
+
+[^safety-nonlinear]: [Nelinearita rizika a podpora ekologicky udržitelné dopravy](https://consensus.app/papers/details/ddb904753c7e595da42aff02aae53b22/) (Accident Analysis & Prevention, 2009, 383 citací, [DOI](https://doi.org/10.1016/j.aap.2009.04.009))
