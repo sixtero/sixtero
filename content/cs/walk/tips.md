@@ -60,3 +60,8 @@ sidebar:
 - https://kct.cz/turisticke-znaceni/dalkove-pesi-mezinarodni-trasy/
 - https://www.idnes.cz/cestovani/po-cesku/vikend-vylety-cesko-tury-hocek-via-czechia.A250729_858731_po-cesku_hig
 - https://www.kudyznudy.cz/aktuality/nejkrasnejsi-turisticke-trasy-v-cesku-stezky-ktere
+
+## Tipy na výzvy
+
+- https://www.desettisickroku.cz
+- https://www.benesov-city.cz/deset-tisic-kroku-jarni-vyzva-2026
