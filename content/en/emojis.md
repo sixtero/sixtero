@@ -105,6 +105,7 @@ description: List of emojis for use in Sixtero content.
 - ⚙️ Settings
 - 🔄 Sync, repetition
 - ⌚ Smartwatch
+- ✨ AI
 
 ### Motivation and Goals
 

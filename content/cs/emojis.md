@@ -105,6 +105,7 @@ description: Seznam emodži pro použití v obsahu Sixtero.
 - ⚙️ Nastavení
 - 🔄 Synchronizace, opakování
 - ⌚ Chytré hodinky
+- ✨ AI
 
 ### Motivace a cíle
 
