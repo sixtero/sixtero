@@ -1,9 +1,9 @@
 ---
-title: Seznam Emoji
-description: Seznam emoji pro použití v obsahu Sixtero.
+title: 😀 Seznam emodži
+description: Seznam emodži pro použití v obsahu Sixtero.
 ---
 
-## Seznam emoji pro použití v obsahu Sixtero
+## Seznam emodži pro použití v obsahu Sixtero
 
 ### Pohyb a sport
 

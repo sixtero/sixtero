@@ -1,5 +1,5 @@
 ---
-title: Emoji List
+title: 😀 Emoji List
 description: List of emojis for use in Sixtero content.
 ---
 
