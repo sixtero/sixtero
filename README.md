@@ -24,3 +24,11 @@ If you would like to contribute to the content of the Sixtero website, please fo
 4. Submit a pull request with a clear description of your changes and why they are necessary.
 5. The Sixtero team will review your pull request and provide feedback or merge it if it meets the quality standards.
 6. Please be respectful and constructive in your feedback and contributions.
+
+## Questions
+
+For questions and support please [open a discussion](https://github.com/sixtero/sixtero/discussions).
+
+## License
+
+[Content is available under CC BY-SA 4.0 © Sixtero unless otherwise noted.](https://creativecommons.org/licenses/by-sa/4.0/)
