@@ -28,7 +28,7 @@ Chůze snižuje tělesný tuk 🔥, posiluje kosti a klouby 🏋️ a zlepšuje 
 
 ## 4. ⚡ Vitalita a funkce orgánů
 
-Chůze zlepšuje trávení 🍽️, zvyšuje energii ⚡ a produktivitu 🧠 a podporuje tvorbu vitaminu D ☀️. Posiluje plíce 🫁 a pomáhá regulovat hladinu stresového hormonu kortizolu ⚖️.
+Chůze zlepšuje trávení 🍽️, zvyšuje energii ⚡ a produktivitu 🧠 a podporuje tvorbu vitamínu D ☀️. Posiluje plíce 🫁 a pomáhá regulovat hladinu stresového hormonu kortizolu ⚖️.
 
 ## 5. 🌳 Mysl, vztahy a příroda
 
