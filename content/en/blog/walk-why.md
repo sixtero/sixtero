@@ -24,7 +24,7 @@ Walking strengthens the immune system 🦠, reduces symptoms of depression and a
 
 ## 3. 🦴 Body, Bones and Recovery
 
-Walking reduces body fat 🔥, strengthens bones and joints 🏋️, and improves sleep quality 😴. It strengthens the muscles of the legs, glutes and core 🦵, supports gut microbiome diversity 🔬 and increases overall aerobic fitness 🏃.
+Walking reduces body fat 🔥, strengthens bones and joints 🦴, and improves sleep quality 😴. It strengthens the muscles of the legs, glutes and core 🦵, supports gut microbiome diversity 🦠 and increases overall aerobic fitness 💨.
 
 ## 4. ⚡ Vitality and Organ Function
 
