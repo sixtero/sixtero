@@ -40,13 +40,14 @@ description: List of emojis for use in Sixtero content.
 - 🩹 Healing, recovery
 - 🧊 Ice, post-exercise recovery
 - 💊 Medication, prevention
-- 🦠 Immunity, illness
+- 🦠 Immunity, microbiome, illness
 - 🧬 Genetics, DNA
 - ⚕️ Healthcare, medicine
 - 🏥 Hospital, medical facility
 - 💤 Sleep quality
 - 😷 Illness, prevention
 - 💆 Massage, relaxation, recovery
+- 💨 Breath, stamina, aerobic fitness
 
 ### Nutrition
 

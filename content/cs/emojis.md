@@ -40,13 +40,14 @@ description: Seznam emodži pro použití v obsahu Sixtero.
 - 🩹 Hojení, zotavení
 - 🧊 Led, regenerace po cvičení
 - 💊 Léky, prevence
-- 🦠 Imunita, nemoci
+- 🦠 Imunita, mikrobiom, nemoci
 - 🧬 Genetika, DNA
 - ⚕️ Zdravotnictví, medicína
 - 🏥 Nemocnice, zdravotnické zařízení
 - 💤 Kvalita spánku
 - 😷 Nemoc, prevence
 - 💆 Masáž, relaxace, regenerace
+- 💨 Dech, výdrž, aerobní kondice
 
 ### Výživa
 
