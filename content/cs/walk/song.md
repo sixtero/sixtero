@@ -4,6 +4,7 @@ description: Písnička o chůzi, která připomíná, jak je chůze důležitá
 sidebar:
   label: 🎶 Písnička o chůzi
   order: 3
+license: CC-BY-SA-4.0
 ---
 
 Zpívejte si tuto písničku, když jdete na procházku. Funguje jako pozitivní **afirmace** – mentální připomenutí, proč to děláte. Její rytmické opakování nejen že udává tempo vašim krokům, ale zároveň do podvědomí kóduje spojení pohybu se zdravím, radostí a vitalitou. Ať vám chůze přinese ještě více energie! 🚶‍♂️🎶
