@@ -7,7 +7,9 @@ Vítejte v Sixtero 👋, komunitě pro všechny, kteří chtějí žít blíž p
 
 📚 Naše platforma nabízí wiki a prostor pro sdílení nápadů, zkušeností a inspirace.
 
-Slovo Sixtero vzniklo spojením slov "six" (šest) a "tero" (koncovka ze souborové číslovky šestero). Sixtero tak odkazuje na šest základních pilířů, které tvoří náš přístup k životu blíž přírodě:
+Slovo Sixtero vzniklo spojením slov "six" (šest) a "tero" (koncovka ze souborové číslovky šestero).
+
+Sixtero symbolizuje šest základních pilířů, které tvoří náš přístup k životu blíž přírodě:
 
 - 🌱 Přirozeně - v souladu s přírodou
 - 🔄 Pravidelně - s pravidelností a disciplínou

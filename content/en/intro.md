@@ -7,7 +7,9 @@ Welcome to Sixtero 👋, a community for everyone who wants to live closer to na
 
 📚 Our platform offers a wiki and a space for sharing ideas, experiences, and inspiration.
 
-The word Sixtero was created by combining "six" and "tero" (a suffix from the Czech collective numeral "šestero"). Sixtero thus refers to six fundamental pillars that form our approach to living closer to nature:
+The word Sixtero was created by combining "six" and "tero" (a suffix from the Czech collective numeral "šestero").
+
+Sixtero symbolizes six fundamental pillars that form our approach to living closer to nature:
 
 - 🌱 Naturally - in harmony with nature
 - 🔄 Regularly - with consistency and discipline
