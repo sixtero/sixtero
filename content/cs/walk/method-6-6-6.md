@@ -132,16 +132,16 @@ Začínat můžete i s menším objemem -- třeba 30 minut čtyřikrát týdně 
 
 ---
 
-[^fat-oxidation]: [Optimalizace spalování tuků prostřednictvím metabolismu cvičení a výživy](https://consensus.app/papers/details/0c7a3f90a4ee5a5785b0bcf329ed6af3/) (Nutrition, 2004, 1211 citací, [DOI](https://doi.org/10.1016/j.nut.2004.01.011))
+[^fat-oxidation]: [Optimalizace spalování tuků prostřednictvím metabolismu cvičení a výživy](https://scholar.google.com/scholar?q=10.1016/j.nut.2004.01.011) (Nutrition, 2004, [DOI](https://doi.org/10.1016/j.nut.2004.01.011), [Consensus](https://consensus.app/papers/details/0c7a3f90a4ee5a5785b0bcf329ed6af3/) )
 
 [^steps-health]: [Denní kroky a zdravotní výsledky u dospělých: systematický přehled a meta-analýza dávka-odezva](<https://doi.org/10.1016/S2468-2667(25)00164-1>) (Lancet Public Health, 2025)
 
-[^walking-groups]: [Existují důkazy, že skupinová chůze má zdravotní přínosy? Systematický přehled a meta-analýza](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) (BJSM, 2015, 383 citací, [DOI](https://doi.org/10.1136/bjsports-2014-094157))
+[^walking-groups]: [Existují důkazy, že skupinová chůze má zdravotní přínosy? Systematický přehled a meta-analýza](https://scholar.google.com/scholar?q=10.1136/bjsports-2014-094157) (BJSM, 2015, [DOI](https://doi.org/10.1136/bjsports-2014-094157), [Consensus](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) )
 
-[^depression-anxiety]: [Vliv chůze na depresivní a úzkostné příznaky: systematický přehled a meta-analýza](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) (JMIR Public Health and Surveillance, 2024, 15 citací, [DOI](https://doi.org/10.2196/48355))
+[^depression-anxiety]: [Vliv chůze na depresivní a úzkostné příznaky: systematický přehled a meta-analýza](https://scholar.google.com/scholar?q=10.2196/48355) (JMIR Public Health and Surveillance, 2024, [DOI](https://doi.org/10.2196/48355), [Consensus](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) )
 
-[^cvd-walking-rct]: [Vliv chůze na rizikové faktory kardiovaskulárních onemocnění: aktualizovaný systematický přehled a meta-analýza](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) (Preventive Medicine, 2015, 255 citací, [DOI](https://doi.org/10.1016/j.ypmed.2014.12.041))
+[^cvd-walking-rct]: [Vliv chůze na rizikové faktory kardiovaskulárních onemocnění: aktualizovaný systematický přehled a meta-analýza](https://scholar.google.com/scholar?q=10.1016/j.ypmed.2014.12.041) (Preventive Medicine, 2015, [DOI](https://doi.org/10.1016/j.ypmed.2014.12.041), [Consensus](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) )
 
-[^postprandial]: [Po večeři chvíli postůj, po obědě projdi se? Systematický přehled s meta-analýzou akutní postprandiální glykemické odpovědi na cvičení](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) (Sports Medicine, 2023, 30 citací, [DOI](https://doi.org/10.1007/s40279-022-01808-7))
+[^postprandial]: [Po večeři chvíli postůj, po obědě projdi se? Systematický přehled s meta-analýzou akutní postprandiální glykemické odpovědi na cvičení](https://scholar.google.com/scholar?q=10.1007/s40279-022-01808-7) (Sports Medicine, 2023, [DOI](https://doi.org/10.1007/s40279-022-01808-7), [Consensus](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) )
 
-[^exercise-variety]: [Podporuje různorodost odporového cvičení lepší svalovou hypertrofii a sílu?](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) (J Strength Cond Res, 2022, [DOI](https://doi.org/10.1519/JSC.0000000000004258))
+[^exercise-variety]: [Podporuje různorodost odporového cvičení lepší svalovou hypertrofii a sílu?](https://scholar.google.com/scholar?q=10.1519/JSC.0000000000004258) (J Strength Cond Res, 2022, [DOI](https://doi.org/10.1519/JSC.0000000000004258), [Consensus](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) )
