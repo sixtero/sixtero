@@ -79,6 +79,6 @@ Navíc, když se vydáte na procházku, můžete potkat sousedy, pozdravit znám
 
 ## ▶️ Přehrát píseň
 
-<audio controls preload loading="lazy" src="/songs/sixtero-song-walk-cs.m4a"></audio>
+<audio controls preload loading="lazy" src="/songs/cs/sixtero-song-walk-cs.m4a"></audio>
 
 Píseň lze stáhnout přes menu přehrávače.
