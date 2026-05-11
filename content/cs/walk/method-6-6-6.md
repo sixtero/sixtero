@@ -29,9 +29,9 @@ Obě verze se v praxi překrývají -- chůze rychlostí 6 km/h po dobu 60 minut
 
 ## 🧪 Proč to funguje?
 
-Rychlost 6 km/h je pro většinu lidí svižná chůze, při které se tepová frekvence dostane do 50--65 % maximální tepové frekvence. Jde o trénink při nízké intenzitě po delší dobu, kdy dochází ke spalování tuků, urychlení regenerace a zlepšení metabolismu. [^fat-oxidation]
+Rychlost 6 km/h je pro většinu lidí svižná chůze, při které se tepová frekvence dostane do 50--65 % maximální tepové frekvence. Jde o trénink při nízké intenzitě po delší dobu, kdy dochází ke spalování tuků, urychlení regenerace a zlepšení metabolismu. [^73d7ab5b68f5a2bfbeb5d5dc8a19b94b]
 
-Nedávný přehled ukázal, že už 7 000 denních kroků je spojeno s nižším rizikem srdečních chorob, rakoviny, depresivních symptomů a celkové úmrtnosti. [^steps-health]
+Nedávný přehled ukázal, že už 7 000 denních kroků je spojeno s nižším rizikem srdečních chorob, rakoviny, depresivních symptomů a celkové úmrtnosti. [^6142d6f56497c2524093ebb268766622]
 
 ## ✅ Benefity metody 6-6-6
 
@@ -41,15 +41,15 @@ Metoda je snadno zapamatovatelná a umožňuje vytvořit z chůze každodenní z
 
 ### 💪 Zlepšení vytrvalosti
 
-Hodina kardia šestkrát týdně je náročná, ale po přibližně dvou týdnech se chůze začne cítit efektivněji -- méně únavy, méně zadýchání. Pravidelná chůze prokazatelně zvyšuje aerobní kapacitu. [^walking-groups]
+Hodina kardia šestkrát týdně je náročná, ale po přibližně dvou týdnech se chůze začne cítit efektivněji -- méně únavy, méně zadýchání. Pravidelná chůze prokazatelně zvyšuje aerobní kapacitu. [^d58a50ca97d9f8f8d95865432b31b99b]
 
 ### 😊 Zlepšení nálady a snížení stresu
 
-Po dlouhém dni hodina venku pomáhá čistit hlavu a snižuje pocity stresu a úzkosti. Ráno zase kontakt se sluncem a čerstvým vzduchem pomáhá nastartovat den. Meta-analýza desítek studií potvrdila, že chůze významně snižuje příznaky deprese i úzkosti. [^depression-anxiety]
+Po dlouhém dni hodina venku pomáhá čistit hlavu a snižuje pocity stresu a úzkosti. Ráno zase kontakt se sluncem a čerstvým vzduchem pomáhá nastartovat den. Meta-analýza desítek studií potvrdila, že chůze významně snižuje příznaky deprese i úzkosti. [^1c5eeae714406684769bb2b4215ead8b]
 
 ### ❤️ Kardiovaskulární zdraví
 
-Metoda 6-6-6 může napomoci kardiovaskulárnímu zdraví a celkovému metabolismu -- lepší citlivosti na inzulín a podpoře bazálního metabolismu. [^cvd-walking-rct]
+Metoda 6-6-6 může napomoci kardiovaskulárnímu zdraví a celkovému metabolismu -- lepší citlivosti na inzulín a podpoře bazálního metabolismu. [^29a634f719a69a7676c56949dc66d9c7]
 
 ### 🔥 Spalování kalorií
 
@@ -71,7 +71,7 @@ I rychlá chůze se může lišit. Zajímavou alternativou je intervalový pří
 
 ### ⏰ Nečasujte načasování na 6:00
 
-Doporučení chodit přesně v 6 hodin ráno nebo večer je spíše orientační. Důležitější než přesný čas je pravidelnost. Ideálně je zařadit chůzi před jídlem (svaly jsou citlivější na inzulín, cukr z následného jídla se lépe zpracuje) nebo po jídle (napomáhá trávení a celkovému metabolismu). [^postprandial]
+Doporučení chodit přesně v 6 hodin ráno nebo večer je spíše orientační. Důležitější než přesný čas je pravidelnost. Ideálně je zařadit chůzi před jídlem (svaly jsou citlivější na inzulín, cukr z následného jídla se lépe zpracuje) nebo po jídle (napomáhá trávení a celkovému metabolismu). [^8a9c59dcbdffad41dd7b41e882f68729]
 
 ### 🎧 Spojte to s něčím příjemným
 
@@ -93,7 +93,7 @@ Hodina chůze šestkrát týdně je výrazně nad doporučenými 150 minutami st
 
 ### 🔄 Nedostatek rozmanitosti
 
-Pokud chůze zcela nahradí ostatní formy pohybu (silový trénink, jóga, flexibilita), může to být kontraproduktivní. Odborníci doporučují kombinovat chůzi s dalšími aktivitami pro komplexní rozvoj těla. [^exercise-variety]
+Pokud chůze zcela nahradí ostatní formy pohybu (silový trénink, jóga, flexibilita), může to být kontraproduktivní. Odborníci doporučují kombinovat chůzi s dalšími aktivitami pro komplexní rozvoj těla. [^a7c72fccde08f5ebc7dbb92328b0b838]
 
 ### 🧑 Individuální přístup
 
@@ -130,18 +130,20 @@ Začínat můžete i s menším objemem -- třeba 30 minut čtyřikrát týdně 
 - [Chůze 6-6-6 a hubnutí: co říkají odborníci](https://www.idnes.cz/onadnes/zdravi/chuze-6-6-6-a-hubnuti-co-rikaji-odbornici.A250120_205055_zdravi_brv) (iDNES.cz, 2025)
 - [6-6-6 Walking Rule for Weight Loss](https://www.reddit.com/r/walking/comments/1mni9jz/666_walking_rule_for_weight_loss_works/) (Reddit r/walking, 2025)
 
----
+<!-- citations:start -->
 
-[^fat-oxidation]: [Optimalizace spalování tuků prostřednictvím metabolismu cvičení a výživy](https://scholar.google.com/scholar?q=10.1016/j.nut.2004.01.011) (Nutrition, 2004, [DOI](https://doi.org/10.1016/j.nut.2004.01.011), [Consensus](https://consensus.app/papers/details/0c7a3f90a4ee5a5785b0bcf329ed6af3/) )
+[^1c5eeae714406684769bb2b4215ead8b]: Vliv chůze na depresivní a úzkostné příznaky: systematický přehled a meta-analýza. *JMIR Public Health and Surveillance* [online]. 2024. Dostupné z: doi:10.2196/48355. ([Scholar](https://scholar.google.com/scholar?q=10.2196/48355), [Consensus](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/))
 
-[^steps-health]: [Denní kroky a zdravotní výsledky u dospělých: systematický přehled a meta-analýza dávka-odezva](<https://doi.org/10.1016/S2468-2667(25)00164-1>) (Lancet Public Health, 2025)
+[^29a634f719a69a7676c56949dc66d9c7]: Vliv chůze na rizikové faktory kardiovaskulárních onemocnění: aktualizovaný systematický přehled a meta-analýza randomizovaných kontrolovaných studií. *Preventive Medicine* [online]. 2015. Dostupné z: doi:10.1016/j.ypmed.2014.12.041. ([Scholar](https://scholar.google.com/scholar?q=10.1016/j.ypmed.2014.12.041), [Consensus](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/))
 
-[^walking-groups]: [Existují důkazy, že skupinová chůze má zdravotní přínosy? Systematický přehled a meta-analýza](https://scholar.google.com/scholar?q=10.1136/bjsports-2014-094157) (BJSM, 2015, [DOI](https://doi.org/10.1136/bjsports-2014-094157), [Consensus](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/) )
+[^6142d6f56497c2524093ebb268766622]: Denní kroky a zdravotní výsledky u dospělých: systematický přehled a meta-analýza dávka-odezva. *00164-1>) (Lancet Public Health, 2025)* [online]. Dostupné z: doi:10.1016/s2468-2667(25. ([Scholar](https://doi.org/10.1016/S2468-2667(25))
 
-[^depression-anxiety]: [Vliv chůze na depresivní a úzkostné příznaky: systematický přehled a meta-analýza](https://scholar.google.com/scholar?q=10.2196/48355) (JMIR Public Health and Surveillance, 2024, [DOI](https://doi.org/10.2196/48355), [Consensus](https://consensus.app/papers/details/ef6cb7f0614c5f73a85cb7e6f667cc14/) )
+[^73d7ab5b68f5a2bfbeb5d5dc8a19b94b]: Optimalizace spalování tuků prostřednictvím metabolismu cvičení a výživy. *Nutrition* [online]. 2004. Dostupné z: doi:10.1016/j.nut.2004.01.011. ([Scholar](https://scholar.google.com/scholar?q=10.1016/j.nut.2004.01.011), [Consensus](https://consensus.app/papers/details/0c7a3f90a4ee5a5785b0bcf329ed6af3/))
 
-[^cvd-walking-rct]: [Vliv chůze na rizikové faktory kardiovaskulárních onemocnění: aktualizovaný systematický přehled a meta-analýza](https://scholar.google.com/scholar?q=10.1016/j.ypmed.2014.12.041) (Preventive Medicine, 2015, [DOI](https://doi.org/10.1016/j.ypmed.2014.12.041), [Consensus](https://consensus.app/papers/details/7e37b57ef2885441b2398d09d0a1a3db/) )
+[^8a9c59dcbdffad41dd7b41e882f68729]: Po večeři chvíli postůj, po obědě projdi se? Systematický přehled s meta-analýzou akutní postprandiální glykemické odpovědi na cvičení. *Sports Medicine* [online]. 2023. Dostupné z: doi:10.1007/s40279-022-01808-7. ([Scholar](https://scholar.google.com/scholar?q=10.1007/s40279-022-01808-7), [Consensus](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/))
 
-[^postprandial]: [Po večeři chvíli postůj, po obědě projdi se? Systematický přehled s meta-analýzou akutní postprandiální glykemické odpovědi na cvičení](https://scholar.google.com/scholar?q=10.1007/s40279-022-01808-7) (Sports Medicine, 2023, [DOI](https://doi.org/10.1007/s40279-022-01808-7), [Consensus](https://consensus.app/papers/details/be0158ced9e45ef2837e8016a530cfab/) )
+[^a7c72fccde08f5ebc7dbb92328b0b838]: Podporuje různorodost odporového cvičení lepší svalovou hypertrofii a sílu? *J Strength Cond Res* [online]. 2022. Dostupné z: doi:10.1519/jsc.0000000000004258. ([Scholar](https://scholar.google.com/scholar?q=10.1519/JSC.0000000000004258), [Consensus](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/))
 
-[^exercise-variety]: [Podporuje různorodost odporového cvičení lepší svalovou hypertrofii a sílu?](https://scholar.google.com/scholar?q=10.1519/JSC.0000000000004258) (J Strength Cond Res, 2022, [DOI](https://doi.org/10.1519/JSC.0000000000004258), [Consensus](https://consensus.app/papers/details/4b4540b543df5bf0af6c2a684a27b7eb/) )
+[^d58a50ca97d9f8f8d95865432b31b99b]: Existují důkazy, že skupinová chůze má zdravotní přínosy? Systematický přehled a meta-analýza. *BJSM* [online]. 2015. Dostupné z: doi:10.1136/bjsports-2014-094157. ([Scholar](https://scholar.google.com/scholar?q=10.1136/bjsports-2014-094157), [Consensus](https://consensus.app/papers/details/439e864873995077849c6bcc543b9573/))
+
+<!-- citations:end -->

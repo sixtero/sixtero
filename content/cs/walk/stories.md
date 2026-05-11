@@ -13,196 +13,192 @@ Přečtěte si inspirativní příběhy lidí, pro které se chůze stala cestou
 
 ### 1. 🌿 Heather: Chůze v přírodě jako terapie
 
-Britská šedesátnice Heather se dlouhá léta potýkala s úzkostí a depresí, které odstartovala smrt její osmnáctileté dcery v roce 2008. Antidepresiva otupovala nejhorší hrany, ale nevracela jí pocit, že má život pod kontrolou. Začala chodit -- zpočátku od lampy k lampě, pak o několik lamp dál, až se dostala k hodinovým procházkám. Chůze v přírodě jí pomohla vysadit antidepresiva a dnes je to její hlavní nástroj, jak se postavit zpět na nohy, kdykoliv se stav zhorší. [^heather-mhf]
+Britská šedesátnice Heather se dlouhá léta potýkala s úzkostí a depresí, které odstartovala smrt její osmnáctileté dcery v roce 2008. Antidepresiva otupovala nejhorší hrany, ale nevracela jí pocit, že má život pod kontrolou. Začala chodit -- zpočátku od lampy k lampě, pak o několik lamp dál, až se dostala k hodinovým procházkám. Chůze v přírodě jí pomohla vysadit antidepresiva a dnes je to její hlavní nástroj, jak se postavit zpět na nohy, kdykoliv se stav zhorší. [^8b3debc82ea1cc60a05cda820cb49c4a]
 
 ### 2. 🌅 Věra Tůmová: Chůze mě zvedla ze samého dna
 
-Česká ilustrátorka a autorka Věra Tůmová byla v roce 2012 fyzicky i psychicky na dně. S malou dcerou v náručí opustila násilný vztah a ocitla se v existenční krizi -- sama s velkou hypotékou a zdravotními problémy. Postupně si vytvořila vlastní program „Chůze jako lék", díky kterému se zbavila psychosomatických potíží, zhubla, začala znovu malovat, tvořit a psát pro děti. Dnes plánuje své dny tak, aby vždy nachodila 6 až 10 km. [^tumova-denik] [^tumova-web]
+Česká ilustrátorka a autorka Věra Tůmová byla v roce 2012 fyzicky i psychicky na dně. S malou dcerou v náručí opustila násilný vztah a ocitla se v existenční krizi -- sama s velkou hypotékou a zdravotními problémy. Postupně si vytvořila vlastní program „Chůze jako lék", díky kterému se zbavila psychosomatických potíží, zhubla, začala znovu malovat, tvořit a psát pro děti. Dnes plánuje své dny tak, aby vždy nachodila 6 až 10 km. [^006581db4d957e4bd53bbc6bbd92dd87] [^38c119e35afda0297891c42bc3f94219]
 
 ### 3. 🩺 Detricia Woods-Meadows: Reverzace prediabetu
 
-Dvaapadesátiletá matka z Dallasu se v roce 2022 zavázala k jediné změně -- chodit 10 000 kroků denně. Začínala na 5 000 krocích a zvyšovala cíl o 500 kroků každé dva až tři týdny. Po diagnóze prediabetu cíl rovnou zdvihla na 10 000 kroků. Za několik měsíců zhubla přes 30 kilogramů a prediabetes zcela reverzovala. Svůj příběh vyprávěla v ranní show Today. [^detricia-today]
+Dvaapadesátiletá matka z Dallasu se v roce 2022 zavázala k jediné změně -- chodit 10 000 kroků denně. Začínala na 5 000 krocích a zvyšovala cíl o 500 kroků každé dva až tři týdny. Po diagnóze prediabetu cíl rovnou zdvihla na 10 000 kroků. Za několik měsíců zhubla přes 30 kilogramů a prediabetes zcela reverzovala. Svůj příběh vyprávěla v ranní show Today. [^fbfbf328527a76bf8ce3cf463b999c88]
 
 ### 4. 👶 Newsweek „My Turn": 45 kilogramů po porodu
 
-Anonymní autorka sloupku „My Turn" v magazínu Newsweek popisuje, jak po porodu přibrala desítky kilogramů. Pořídila si Fitbit a začala chodit s kočárkem každý den po celé hodině. Záda ji bolela, nohy sotva nesla, ale nepřestala. V kombinaci s počítáním kalorií přes aplikaci MyFitnessPal postupně zhubla přes 45 kilogramů -- a přitom mohla dál jíst to, co má ráda, jen s mírou. [^newsweek-myturn]
+Anonymní autorka sloupku „My Turn" v magazínu Newsweek popisuje, jak po porodu přibrala desítky kilogramů. Pořídila si Fitbit a začala chodit s kočárkem každý den po celé hodině. Záda ji bolela, nohy sotva nesla, ale nepřestala. V kombinaci s počítáním kalorií přes aplikaci MyFitnessPal postupně zhubla přes 45 kilogramů -- a přitom mohla dál jíst to, co má ráda, jen s mírou. [^64913a1441108239a8014bda44011361]
 
 ### 5. 🦵 Edward Gerjouy: Svižná chůze v 92 letech
 
-Americký vědec Edward Gerjouy v 92 letech bez problémů chodí více než půl hodiny na nakloněném běhátku rychlostí okolo 5 km/h. Jeho případ ilustruje rozsáhlou studii JAMA, která spojila data z devíti výzkumů a více než 34 000 seniorů -- rychlost chůze u lidí nad 65 let významně predikuje délku života. Muž, který v 75 letech šoupe nohama rychlostí pod 1,5 km/h, se možná nedožije osmdesátky. [^gerjouy-abc]
+Americký vědec Edward Gerjouy v 92 letech bez problémů chodí více než půl hodiny na nakloněném běhátku rychlostí okolo 5 km/h. Jeho případ ilustruje rozsáhlou studii JAMA, která spojila data z devíti výzkumů a více než 34 000 seniorů -- rychlost chůze u lidí nad 65 let významně predikuje délku života. Muž, který v 75 letech šoupe nohama rychlostí pod 1,5 km/h, se možná nedožije osmdesátky. [^14f5b19249387ccf9af0ca45fdad1765]
 
 ### 6. 💔 KEEN Footwear: Chůze jako signál k uzdravení
 
-Autorka blogu značky KEEN popisuje, jak dlouho trpěla záchvaty paniky, úzkostí a depresí. Průlom přinesla tragédie -- sebevražda jejího staršího bratra v roce 2014. V té chvíli si uvědomila, že pokud nevyhledá pomoc, možná ji čeká stejný osud. Součástí její každodenní péče o duševní zdraví se stala jedna věc: pokaždé, když přichází špatná nálada, jde ven a jde chodit. [^keen-blog]
+Autorka blogu značky KEEN popisuje, jak dlouho trpěla záchvaty paniky, úzkostí a depresí. Průlom přinesla tragédie -- sebevražda jejího staršího bratra v roce 2014. V té chvíli si uvědomila, že pokud nevyhledá pomoc, možná ji čeká stejný osud. Součástí její každodenní péče o duševní zdraví se stala jedna věc: pokaždé, když přichází špatná nálada, jde ven a jde chodit. [^e8d9f0e8a0bccecc6c97055989261a43]
 
 ## Příběhy o zhubnutí a spalování tuků
 
 ### 7. 🇨🇿 Veronika: Zhubla 54 kilogramů
 
-Osmadvacetiletá Veronika dlouho střídala hladovky a záchvaty přejídání. V Anglii, kam odjela jako au-pair, začala pravidelně cvičit a chodit. Dnes cvičí 5 až 6× týdně a nachodí 10 až 15 tisíc kroků denně. Zhubla celkem 54 kilogramů -- když se vrátila do Česka, nepoznali ji ani vlastní rodiče. [^stob-veronika]
+Osmadvacetiletá Veronika dlouho střídala hladovky a záchvaty přejídání. V Anglii, kam odjela jako au-pair, začala pravidelně cvičit a chodit. Dnes cvičí 5 až 6× týdně a nachodí 10 až 15 tisíc kroků denně. Zhubla celkem 54 kilogramů -- když se vrátila do Česka, nepoznali ji ani vlastní rodiče. [^46a50a512542eb5e4501192812437e29]
 
 ### 8. 🇨🇿 Jana: Zhubla 38 kilogramů se STOBem
 
-Jana z příběhu klubu STOB v těhotenství nabrala kilogramy, které se jí nedařilo shodit, a sedavé zaměstnání si vybralo svou daň. Začarovaný kruh rozťala teprve cílená změna -- kurz STOB, pravidelný pohyb a jídelníček. Zhubla 38 kilogramů a novou hmotnost si udržuje trvalou aktivitou. Dnes s úsměvem říká: „Baví mě, že mě lidé ani nepoznávají." [^stob-jana]
+Jana z příběhu klubu STOB v těhotenství nabrala kilogramy, které se jí nedařilo shodit, a sedavé zaměstnání si vybralo svou daň. Začarovaný kruh rozťala teprve cílená změna -- kurz STOB, pravidelný pohyb a jídelníček. Zhubla 38 kilogramů a novou hmotnost si udržuje trvalou aktivitou. Dnes s úsměvem říká: „Baví mě, že mě lidé ani nepoznávají." [^d2e21934d2b32c7cbc3fc566a45323f4]
 
 ### 9. 🇨🇿 Anička: Zhubla 20 kilogramů ve zralém věku
 
-Anička se před kurzem STOB vůbec nevěřila, že dokáže ve svém věku ještě zhubnout. Při třetím absolvování programu zhubla 6 kilogramů a pokračovala dál. Dnes je o 20 kilogramů lehčí, váží 82 kilogramů a přeje si, aby váha brzy ukázala první číslo „7". „Jsem na sebe pyšná," říká. [^stob-anicka]
+Anička se před kurzem STOB vůbec nevěřila, že dokáže ve svém věku ještě zhubnout. Při třetím absolvování programu zhubla 6 kilogramů a pokračovala dál. Dnes je o 20 kilogramů lehčí, váží 82 kilogramů a přeje si, aby váha brzy ukázala první číslo „7". „Jsem na sebe pyšná," říká. [^8dfb32c912e1421a00580639ba926d43]
 
 ### 10. 👟 Rebecca Reyes: 20 kilogramů za půl roku
 
-Třicetiletá matka dvou dětí z Oregonu začala přibírat po narození mladší dcery. Narazila na video ženy, která zhubla chůzí, a rozhodla se hodinu denně chodit na běhátku, zatímco děti spaly. Cíl: 10 000 kroků denně a kalorický deficit 500 kcal. Za pět a půl měsíce zhubla o 20 kilogramů -- bez jiné formy cvičení. Její rada: „Nekomplikujte to. Nemusíte se vzdávat dobrého jídla ani čokolády, jen s mírou." [^reyes-newsweek]
+Třicetiletá matka dvou dětí z Oregonu začala přibírat po narození mladší dcery. Narazila na video ženy, která zhubla chůzí, a rozhodla se hodinu denně chodit na běhátku, zatímco děti spaly. Cíl: 10 000 kroků denně a kalorický deficit 500 kcal. Za pět a půl měsíce zhubla o 20 kilogramů -- bez jiné formy cvičení. Její rada: „Nekomplikujte to. Nemusíte se vzdávat dobrého jídla ani čokolády, jen s mírou." [^f26e6e7792ab3c519621f97974c3bf35]
 
 ### 11. 💪 Alexandra Iseghohi: 30 kilogramů díky konzistenci
 
-Dvaadvacetiletá podnikatelka z Dallasu Alexandra Iseghohi se rozhodla změnit svůj život poté, co se dlouho necítila ve své kůži. Spojila chůzi 10 000 kroků denně s nízkosacharidovou stravou a postupně zhubla 30 kilogramů. Důvod, proč to tentokrát vyšlo? „Vytrvalost. Dřív jsem se vždy vzdala. Ty malé každodenní změny postoje vedly k velké dlouhodobé proměně." [^alexandra-newsweek]
+Dvaadvacetiletá podnikatelka z Dallasu Alexandra Iseghohi se rozhodla změnit svůj život poté, co se dlouho necítila ve své kůži. Spojila chůzi 10 000 kroků denně s nízkosacharidovou stravou a postupně zhubla 30 kilogramů. Důvod, proč to tentokrát vyšlo? „Vytrvalost. Dřív jsem se vždy vzdala. Ty malé každodenní změny postoje vedly k velké dlouhodobé proměně." [^64913a1441108239a8014bda44011361]
 
 ### 12. ⚖️ Pravidlo 6 000 kroků
 
-Český web 6000kroku.cz shromažďuje zkušenosti lidí, pro které se pravidlo „6 000 kroků souvislé chůze, 5 dní v týdnu" stalo základem postupného zhubnutí. Podle tohoto pravidla můžete za rok shodit až 12 kilogramů -- a to tuku, ne vody jako u řady rychlokvašených diet. Klíčem je souvislost: tělo začíná spalovat tuky až po zhruba 30 minutách svižné chůze. [^pravidlo-6000]
+Český web 6000kroku.cz shromažďuje zkušenosti lidí, pro které se pravidlo „6 000 kroků souvislé chůze, 5 dní v týdnu" stalo základem postupného zhubnutí. Podle tohoto pravidla můžete za rok shodit až 12 kilogramů -- a to tuku, ne vody jako u řady rychlokvašených diet. Klíčem je souvislost: tělo začíná spalovat tuky až po zhruba 30 minutách svižné chůze. [^8225def150df3dd216d8ed77aa08f215]
 
 ## Příběhy o budování svalů a zlepšení kondice
 
 ### 13. 🧪 Experiment 20 000 kroků denně
 
-Redaktorka českého webu Dotyk.cz si na měsíc stanovila plán: 20 000 kroků denně. Na papíře to vypadalo nevinně, ve skutečnosti to byly zhruba čtyři hodiny chůze -- vedle práce a spánku už skoro nezbýval čas. Po pár dnech se ozvala záda a únava v nohou, ale zlepšil se spánek i nálada. Závěr experimentu je střízlivý: bez protahování a posilování začnou svaly protestovat, extrémní počty kroků nejsou cesta pro většinu lidí. [^dotyk-experiment]
+Redaktorka českého webu Dotyk.cz si na měsíc stanovila plán: 20 000 kroků denně. Na papíře to vypadalo nevinně, ve skutečnosti to byly zhruba čtyři hodiny chůze -- vedle práce a spánku už skoro nezbýval čas. Po pár dnech se ozvala záda a únava v nohou, ale zlepšil se spánek i nálada. Závěr experimentu je střízlivý: bez protahování a posilování začnou svaly protestovat, extrémní počty kroků nejsou cesta pro většinu lidí. [^8c2a03a2411acee37d27e93f9e5428bc]
 
 ### 14. 📊 Parade: 10 000 kroků za měsíc
 
-Reportérka magazínu Parade vyzkoušela klasický experiment -- měsíc chodit 10 000 kroků denně. Změřila si tělesné složení na začátku i na konci. Svalová hmota jí narostla o 1,7 % a dostala se do kategorie „nad průměrem" pro svou velikost. Tělesná proměna byla podle ní menší, než slibuje internet, ale na náladu a duševní pohodu to mělo zásadní vliv. [^parade-10k]
+Reportérka magazínu Parade vyzkoušela klasický experiment -- měsíc chodit 10 000 kroků denně. Změřila si tělesné složení na začátku i na konci. Svalová hmota jí narostla o 1,7 % a dostala se do kategorie „nad průměrem" pro svou velikost. Tělesná proměna byla podle ní menší, než slibuje internet, ale na náladu a duševní pohodu to mělo zásadní vliv. [^806a5af58f6bfa2f9e857d7beb1038eb]
 
 ### 15. 🍦 Ariel Jade: 10 000 kroků bez diety
 
-Americká influencerka Ariel Jade (@ThatAwkwardMom) zkusila měsíc chodit 10 000 kroků denně -- a to bez jakékoliv úpravy stravy, cvičení nebo omezování. Jedla, co a kdy chtěla, včetně zmrzliny a brambůrků. Překvapením byly výsledky: zhubla přibližně 1,5 kilogramu, cítila se méně hladová a zmizely jí chutě na sladké. „Šokuje mě, jak chůze tlumí chutě, po kterých normálně sahám," říká. [^ariel-bodynetwork]
+Americká influencerka Ariel Jade (@ThatAwkwardMom) zkusila měsíc chodit 10 000 kroků denně -- a to bez jakékoliv úpravy stravy, cvičení nebo omezování. Jedla, co a kdy chtěla, včetně zmrzliny a brambůrků. Překvapením byly výsledky: zhubla přibližně 1,5 kilogramu, cítila se méně hladová a zmizely jí chutě na sladké. „Šokuje mě, jak chůze tlumí chutě, po kterých normálně sahám," říká. [^8e0adcd7b4d2b200fc122796de6129ca]
 
 ### 16. 👭 Margaret Taylor: Chůze s kamarádkami na dálku
 
-Margaret Taylorová (58) si během chůze zavolá se svou „úzkou partičkou" kamarádek -- jen bydlí v různých koutech USA. „Napíšu jim, kdo má čas, a pak si spolu voláme a povídáme si, jako bychom šly vedle sebe." Díky pravidelným procházkám má víc energie, zlepšila se jí nálada, přestalo ji bolet koleno a zhubla přibližně 20 kilogramů. [^taylor-today]
+Margaret Taylorová (58) si během chůze zavolá se svou „úzkou partičkou" kamarádek -- jen bydlí v různých koutech USA. „Napíšu jim, kdo má čas, a pak si spolu voláme a povídáme si, jako bychom šly vedle sebe." Díky pravidelným procházkám má víc energie, zlepšila se jí nálada, přestalo ji bolet koleno a zhubla přibližně 20 kilogramů. [^e708806cd5d20f9361308b3af2177014]
 
 ### 17. 🏃 Rob Pope: Skutečný Forrest Gump
 
-Britský ultra-běžec Rob Pope si splnil sen -- zopakoval legendární běh Forresta Gumpa. V září 2016 vyrazil z alabamského Mobile a během 420 dní zdolal 15 300 mil ve čtyřech etapách napříč celými USA. Tlačil před sebou vozík se svými věcmi, spoléhal na pomoc cizích lidí a denně jedl okolo 6 000 kalorií. Výběr na charitu: zhruba 30 000 dolarů pro Peace Direct a WWF. [^pope-redbull]
+Britský ultra-běžec Rob Pope si splnil sen -- zopakoval legendární běh Forresta Gumpa. V září 2016 vyrazil z alabamského Mobile a během 420 dní zdolal 15 300 mil ve čtyřech etapách napříč celými USA. Tlačil před sebou vozík se svými věcmi, spoléhal na pomoc cizích lidí a denně jedl okolo 6 000 kalorií. Výběr na charitu: zhruba 30 000 dolarů pro Peace Direct a WWF. [^e81a06e940a66ecda99c3fa688cb0161]
 
 ### 18. 🏔️ Modré zóny: Chůze jako součást života
 
-V místech, kde se lidé nejčastěji dožívají sta let -- Nicoya v Kostarice, Ikaria v Řecku, Okinawa v Japonsku -- je každodenní chůze přirozenou součástí života. Obyvatelé Nicoyi chodí po kopcích do práce i za přáteli, Ikařané pracují na polích a pasou kozy. Výzkum spojuje tento každodenní pohyb s nejvyšší koncentrací stoletých lidí na světě. [^bluezones-aging]
+V místech, kde se lidé nejčastěji dožívají sta let -- Nicoya v Kostarice, Ikaria v Řecku, Okinawa v Japonsku -- je každodenní chůze přirozenou součástí života. Obyvatelé Nicoyi chodí po kopcích do práce i za přáteli, Ikařané pracují na polích a pasou kozy. Výzkum spojuje tento každodenní pohyb s nejvyšší koncentrací stoletých lidí na světě. [^612411fb7686a521607e2b9f1c1e63db]
 
 ## Příběhy o zlepšení duševní pohody a snížení stresu
 
 ### 19. 🧘 Carly: Meditace v pohybu
 
-Dvaatřicetiletá grafička Carly z USA dlouho bojovala s úzkostí, panickými záchvaty a neustálým koloběhem obav. Dnes chodí 45 minut každý den a popisuje to jako „meditaci v pohybu" -- chůze jí dává pocit kontroly nad vlastními myšlenkami i tělem. Stala se jedním z nejúčinnějších nástrojů, jak úzkost zvládat. [^carly-walktop]
+Dvaatřicetiletá grafička Carly z USA dlouho bojovala s úzkostí, panickými záchvaty a neustálým koloběhem obav. Dnes chodí 45 minut každý den a popisuje to jako „meditaci v pohybu" -- chůze jí dává pocit kontroly nad vlastními myšlenkami i tělem. Stala se jedním z nejúčinnějších nástrojů, jak úzkost zvládat. [^ae63dc2c3040d3b72244e26fc81b3e8e]
 
 ### 20. 🌧️ Josh: Každý krok vpřed znamená pokrok
 
-Osmadvacetiletý doktorand Josh roky bojoval s depresí. Terapie ani léky ho nedokázaly dostat z pocitu uvíznutí -- probudit se ráno bylo každý den nadlidský úkol. Průlom přinesla pravidelná chůze. Nebyla okamžitá, ale dala mu způsob, jak se fyzicky i emocionálně pohnout. „Každý krok vpřed znamenal pokrok." [^josh-walktop]
+Osmadvacetiletý doktorand Josh roky bojoval s depresí. Terapie ani léky ho nedokázaly dostat z pocitu uvíznutí -- probudit se ráno bylo každý den nadlidský úkol. Průlom přinesla pravidelná chůze. Nebyla okamžitá, ale dala mu způsob, jak se fyzicky i emocionálně pohnout. „Každý krok vpřed znamenal pokrok." [^ae63dc2c3040d3b72244e26fc81b3e8e]
 
 ### 21. 🇨🇿 Jitka: Život s úzkostí
 
-Česká organizace Nevypusť duši sbírá osobní svědectví lidí žijících s depresí a úzkostí. Příběh Jitky otevřeně popisuje každodenní zvládání úzkostné poruchy -- od vyhledání odborné pomoci přes podporu blízkých až po drobné rituály, které pomáhají. Mezi nimi má své pevné místo i krátká procházka. [^nevypust-jitka]
+Česká organizace Nevypusť duši sbírá osobní svědectví lidí žijících s depresí a úzkostí. Příběh Jitky otevřeně popisuje každodenní zvládání úzkostné poruchy -- od vyhledání odborné pomoci přes podporu blízkých až po drobné rituály, které pomáhají. Mezi nimi má své pevné místo i krátká procházka. [^fc97d3107d27ac9a8ff21b2168c79a32]
 
 ### 22. 🇨🇿 Miriam: Kombinovaný přístup
 
-Miriam v příběhu z Nevypusť duši popisuje kombinovaný přístup k úzkostně depresivní poruše: terapie spolu s léky jsou její hnací motor, díky kterému může normálně fungovat, a k tomu podpora blízkých přátel a pohyb. Chůze je jedním z pilířů, které jí pomáhají držet se nad vodou. [^nevypust-miriam]
+Miriam v příběhu z Nevypusť duši popisuje kombinovaný přístup k úzkostně depresivní poruše: terapie spolu s léky jsou její hnací motor, díky kterému může normálně fungovat, a k tomu podpora blízkých přátel a pohyb. Chůze je jedním z pilířů, které jí pomáhají držet se nad vodou. [^d6ef2d32aef4ae7a4e0dd1417a8c936b]
 
 ### 23. 🇨🇿 Teru Menclová: Každodenní drobnosti
 
-Česká autorka blogu Teruguide, Teru Menclová, otevřeně píše o životě s úzkostnou poruchou. Její texty nejsou o zázračných receptech, ale o malých každodenních rituálech -- dýchání, procházky, péče o sebe -- které dohromady tvoří stabilitu. Blog se stal podporou pro řadu dalších lidí, kteří bojují s podobnými potížemi. [^teru-blog]
+Česká autorka blogu Teruguide, Teru Menclová, otevřeně píše o životě s úzkostnou poruchou. Její texty nejsou o zázračných receptech, ale o malých každodenních rituálech -- dýchání, procházky, péče o sebe -- které dohromady tvoří stabilitu. Blog se stal podporou pro řadu dalších lidí, kteří bojují s podobnými potížemi. [^b354ba403d8f29a6a7373c24bc649165]
 
 ### 24. 🔬 UCLA Health: Už 1 000 kroků pomáhá
 
-Rozsáhlá meta-analýza, kterou popisuje UCLA Health, ukazuje, že efekt chůze na duševní zdraví je viditelný už při pouhých 1 000 krocích denně -- koreluje s 10% poklesem symptomů deprese. Maximum efektu nastává u 7 500 kroků denně, kdy jsou lidé o 42 % méně náchylní k rozvoji deprese. Není tedy třeba se hnát do extrémů -- i malá dávka chůze významně pomáhá. [^ucla-depression]
+Rozsáhlá meta-analýza, kterou popisuje UCLA Health, ukazuje, že efekt chůze na duševní zdraví je viditelný už při pouhých 1 000 krocích denně -- koreluje s 10% poklesem symptomů deprese. Maximum efektu nastává u 7 500 kroků denně, kdy jsou lidé o 42 % méně náchylní k rozvoji deprese. Není tedy třeba se hnát do extrémů -- i malá dávka chůze významně pomáhá. [^cb3b30f43ffc294b8e6f415609572ea4]
 
 ## Příběhy o objevování světa a prohlubování vztahů prostřednictvím chůze
 
 ### 25. 🌍 Jean Béliveau: 11 let kolem světa pro mír
 
-Kanaďan Jean Béliveau vyrazil 18. srpna 2000 -- v den svých 45. narozenin -- z Montrealu na cestu kolem světa. Chtěl propagovat kulturu míru a nenásilí vůči dětem. Po 11 letech, 75 500 kilometrech, 64 zemích a 54 párech bot se vrátil domů. Tlačil před sebou tříkolový vozík se stanem, spacákem, lékárničkou a deníkem -- žádná elektronika, žádné GPS. Cestou se setkal s Nelsonem Mandelou, spával v africkém vězení i u silnice. [^beliveau-cbc] [^beliveau-dailyhive]
+Kanaďan Jean Béliveau vyrazil 18. srpna 2000 -- v den svých 45. narozenin -- z Montrealu na cestu kolem světa. Chtěl propagovat kulturu míru a nenásilí vůči dětem. Po 11 letech, 75 500 kilometrech, 64 zemích a 54 párech bot se vrátil domů. Tlačil před sebou tříkolový vozík se stanem, spacákem, lékárničkou a deníkem -- žádná elektronika, žádné GPS. Cestou se setkal s Nelsonem Mandelou, spával v africkém vězení i u silnice. [^15dff8c10105ec689a64ea8411fc13b5] [^4848d3003c9f5958bad5a02e2ac799c0]
 
 ### 26. 🇨🇿 Miloslav Šašek: Přes 3 300 km do Santiaga
 
-Český poutník Miloslav Šašek prošel Svatojakubskou cestu pěšky z Ledec u Plzně až do Santiaga de Compostela a dál na mys Finisterre -- celkem přes 3 300 kilometrů. Cestou poznal řadu lidí a prožil nezapomenutelné okamžiky. O svém putování napsal tři knihy, které slouží jako praktický návod pro ty, kdo se chtějí na pouť vydat sami. [^sasek-i60]
+Český poutník Miloslav Šašek prošel Svatojakubskou cestu pěšky z Ledec u Plzně až do Santiaga de Compostela a dál na mys Finisterre -- celkem přes 3 300 kilometrů. Cestou poznal řadu lidí a prožil nezapomenutelné okamžiky. O svém putování napsal tři knihy, které slouží jako praktický návod pro ty, kdo se chtějí na pouť vydat sami. [^440a8b3599039e6d3fcc65a091a94cba]
 
 ### 27. 🇨🇿 Veronika Marčíková: 800 km Francií za 39 dní
 
-Mladá česká cestovatelka Veronika Marčíková se jednoho dne rozhodla opustit stresující zaměstnání a spontánně vyrazila na 800 kilometrů dlouhou francouzskou Svatojakubskou cestu. Za 39 dní potkala spoustu zajímavých lidí, prošla si útrapami a několikrát málem putování vzdala. Nakonec našla víc, než si dokázala představit. [^marcikova-svetoutdooru]
+Mladá česká cestovatelka Veronika Marčíková se jednoho dne rozhodla opustit stresující zaměstnání a spontánně vyrazila na 800 kilometrů dlouhou francouzskou Svatojakubskou cestu. Za 39 dní potkala spoustu zajímavých lidí, prošla si útrapami a několikrát málem putování vzdala. Nakonec našla víc, než si dokázala představit. [^713a35c3193d1b359b23e5efdcc88168]
 
 ### 28. 🇨🇿 Eva Čerešňáková: Pouť bez plánu a bez starostí
 
-Česká cestovatelka Eva Čerešňáková se vydala na Svatojakubskou pouť s minimem plánování a maximem otevřenosti. Její reportáž v týdeníku Hrot ukazuje, jak pouť mění vnímání času, priorit i vlastních obav -- a jak lidé na Caminu zpomalují na rychlost vlastních kroků. [^ceresnakova-hrot24]
+Česká cestovatelka Eva Čerešňáková se vydala na Svatojakubskou pouť s minimem plánování a maximem otevřenosti. Její reportáž v týdeníku Hrot ukazuje, jak pouť mění vnímání času, priorit i vlastních obav -- a jak lidé na Caminu zpomalují na rychlost vlastních kroků. [^2f4d01850cfdf03d3d5a7a6fa1f4bbbb]
 
 ### 29. 💕 JoseLuis: Jdu ji za ni
 
-Na Caminu de Santiago se Španěl JoseLuis svěřil jedné americké poutnici: „Moje žena vždycky chtěla jít tuhle cestu, ale nestihla to. Umřela loni na rakovinu. Jdu ji za ni." Otázka „Por qué caminas?" (Proč kráčíš?) se mezi poutníky stala intimním rituálem -- neznámí lidé si během chůze vyprávějí příběhy, které by jinde zůstaly nevyřčené. [^camino-nexttribe]
+Na Caminu de Santiago se Španěl JoseLuis svěřil jedné americké poutnici: „Moje žena vždycky chtěla jít tuhle cestu, ale nestihla to. Umřela loni na rakovinu. Jdu ji za ni." Otázka „Por qué caminas?" (Proč kráčíš?) se mezi poutníky stala intimním rituálem -- neznámí lidé si během chůze vyprávějí příběhy, které by jinde zůstaly nevyřčené. [^636fb63f35f2d8b5f7265666cc670538]
 
 ### 30. 🤝 Komunita Start TODAY
 
-Detricia Woods-Meadows (viz příběh č. 3) se v červnu 2022 připojila ke komunitě Start TODAY -- 165 000 lidí, kteří se navzájem podporují v každodenní chůzi a drobných změnách životního stylu. Říká, že právě komunita byla klíčem k jejímu úspěchu: „Je to nejvíc motivující, nejvíc povzbuzující rodina -- místo, kde můžete být sami sebou a zranitelní. Získala jsem tam i nové přátele." [^starttoday]
+Detricia Woods-Meadows (viz příběh č. 3) se v červnu 2022 připojila ke komunitě Start TODAY -- 165 000 lidí, kteří se navzájem podporují v každodenní chůzi a drobných změnách životního stylu. Říká, že právě komunita byla klíčem k jejímu úspěchu: „Je to nejvíc motivující, nejvíc povzbuzující rodina -- místo, kde můžete být sami sebou a zranitelní. Získala jsem tam i nové přátele." [^fbfbf328527a76bf8ce3cf463b999c88]
 
 Každý z těchto příběhů začal jedním krokem. A ten další čeká už jen na vás. 💪 😊 🌿 🚶‍♀️
 
----
+<!-- citations:start -->
 
-[^heather-mhf]: [Heather's Story: Walking in nature is my therapy](https://www.mentalhealth.org.uk/explore-mental-health/stories/heathers-story-walking-nature-my-therapy) (Mental Health Foundation, UK)
+[^006581db4d957e4bd53bbc6bbd92dd87]: *Chůze mě zvedla ze samého dna, říká Věra Tůmová. Pohyb snižuje i riziko chorob* [online]. Deník.cz. Dostupné z: https://www.denik.cz/zdravi/kvety-chuze.html.
 
-[^tumova-denik]: [Chůze mě zvedla ze samého dna, říká Věra Tůmová. Pohyb snižuje i riziko chorob](https://www.denik.cz/zdravi/kvety-chuze.html) (Deník.cz)
+[^14f5b19249387ccf9af0ca45fdad1765]: *Walking Speed Predicts Who Will Live Longer* [online]. ABC News. Dostupné z: https://abcnews.com/Health/Wellness/walking-speed-predicts-longevity-elderly/story?id=12539377.
 
-[^tumova-web]: [Kdo jsem -- Věra Tůmová](https://veratumova.cz/kdo-jsem/) (veratumova.cz)
+[^15dff8c10105ec689a64ea8411fc13b5]: *Montreal globetrotter finishes epic walk* [online]. CBC News, 2011. Dostupné z: https://www.cbc.ca/news/canada/montreal/montreal-globetrotter-finishes-epic-walk-1.1124303.
 
-[^detricia-today]: [Woman who lost 65 pounds with daily walks shares 3 tips for staying consistent](https://www.today.com/health/woman-loses-65-pounds-walking-rcna72499) (TODAY, 2023)
+[^2f4d01850cfdf03d3d5a7a6fa1f4bbbb]: *Svatojakubská pouť: bez plánu a bez starostí* [online]. Hrot24.cz. Dostupné z: https://www.hrot24.cz/clanek/bez-planu-a-bez-starosti-svatojakubska-pout-santiago-de-compostela-eva-ceresnakova-HXJTg.
 
-[^newsweek-myturn]: [I Lost Weight by 10K Steps, Calorie Counting and Daily Weigh-ins](https://www.newsweek.com/i-lost-100lbs-walking-10000-steps-1871922) (Newsweek, My Turn)
+[^38c119e35afda0297891c42bc3f94219]: *Kdo jsem -- Věra Tůmová* [online]. veratumova.cz. Dostupné z: https://veratumova.cz/kdo-jsem.
 
-[^gerjouy-abc]: [Walking Speed Predicts Who Will Live Longer](https://abcnews.com/Health/Wellness/walking-speed-predicts-longevity-elderly/story?id=12539377) (ABC News)
+[^440a8b3599039e6d3fcc65a091a94cba]: *Putování k svatému Jakubu -- 3300 km pěšky z Čech na konec světa* [online]. i60.cz. Dostupné z: https://www.i60.cz/clanek/detail/25116/putovani-k-svatemu-jakubu-3300-km-pesky-z-cech-na-konec-sveta.
 
-[^keen-blog]: [How Walking Helped My Mental Health](https://www.keenfootwear.com/blogs/keen-blog/how-walking-helped-my-mental-health) (KEEN Footwear Blog)
+[^46a50a512542eb5e4501192812437e29]: *Veronika zhubla 54 kg v cizině. Po návratu ji nepoznali ani vlastní rodiče* [online]. STOB. Dostupné z: https://www.stob.cz/cs/veronika-zhubla-54-kg-v-cizine-po-navratu-ji-nepoznali-ani-vlastni-rodice.
 
-[^stob-veronika]: [Veronika zhubla 54 kg v cizině. Po návratu ji nepoznali ani vlastní rodiče](https://www.stob.cz/cs/veronika-zhubla-54-kg-v-cizine-po-navratu-ji-nepoznali-ani-vlastni-rodice) (STOB)
+[^4848d3003c9f5958bad5a02e2ac799c0]: *A Canadian man once walked around the world in 11 years* [online]. Daily Hive. Dostupné z: https://dailyhive.com/vancouver/jean-beliveau-walk-world-peace.
 
-[^stob-jana]: [„Baví mě, že mě lidé ani nepoznávají," směje se Jana, která zhubla se STOBem 38 kilogramů](https://www.stobklub.cz/clanek/-bavi-me-ze-me-lide-ani-nepoznavaji-smeje-se-jana-ktera-zhubla-se-stobem-38-kilogramu/) (STOB klub)
+[^612411fb7686a521607e2b9f1c1e63db]: *The multifaceted benefits of walking for healthy aging: from Blue Zones to molecular mechanisms* [online]. GeroScience, 2023. Dostupné z: https://pmc.ncbi.nlm.nih.gov/articles/PMC10643563.
 
-[^stob-anicka]: [Příběh Aničky: Jsem na sebe pyšná! Nevěřila jsem, že dokážu ve svém věku zhubnout 20 kg](https://www.stob.cz/cs/pribeh-anicky-jsem-na-sebe-pysna-neverila-jsem-ze-dokazu-ve-svem-veku-zhubnout-20-kg) (STOB)
+[^636fb63f35f2d8b5f7265666cc670538]: *Camino de Santiago: How Walking it Changed My Life Forever* [online]. NextTribe. Dostupné z: https://nexttribe.com/magazine/camino-de-santiago.
 
-[^reyes-newsweek]: [Woman Walks an Hour a Day for 5 Months, Captures What It Does to Her Body](https://www.newsweek.com/woman-walks-hour-day-5-months-captures-what-it-does-her-body-1971082) (Newsweek)
+[^64913a1441108239a8014bda44011361]: *I Lost 100lbs Walking 10,000 Steps* [online]. Newsweek. Dostupné z: https://www.newsweek.com/i-lost-100lbs-walking-10000-steps-1871922.
 
-[^alexandra-newsweek]: [I Lost 100lbs Walking 10,000 Steps](https://www.newsweek.com/i-lost-100lbs-walking-10000-steps-1871922) (Newsweek)
+[^713a35c3193d1b359b23e5efdcc88168]: *Camino de Santiago: Svatojakubská cesta* [online]. Svět Outdooru. Dostupné z: https://www.svetoutdooru.cz/hory/poutni-svatojakubska-cesta-do-spanelska.
 
-[^pravidlo-6000]: [6000 kroků změní váš život -- paradox chůze](https://6000kroku.cz/paradox-chuze) (6000kroku.cz)
+[^806a5af58f6bfa2f9e857d7beb1038eb]: *I Walked 10,000 Steps a Day for a Month: See the Results* [online]. Parade. Dostupné z: https://parade.com/health/walking-10000-steps-a-day-for-a-month-results.
 
-[^dotyk-experiment]: [Zkusila jsem ujít 20 tisíc kroků denně: Tohle se stalo s mým tělem i náladou](https://www.dotyk.cz/zajimavosti/experiment-chuze-20-tisic-kroku-hubnuti-zdravi-unava/) (Dotyk.cz)
+[^8225def150df3dd216d8ed77aa08f215]: *6000 kroků změní váš život -- paradox chůze* [online]. 6000kroku.cz. Dostupné z: https://6000kroku.cz/paradox-chuze.
 
-[^parade-10k]: [I Walked 10,000 Steps a Day for a Month: See the Results](https://parade.com/health/walking-10000-steps-a-day-for-a-month-results) (Parade)
+[^8b3debc82ea1cc60a05cda820cb49c4a]: *Heather's Story: Walking in nature is my therapy* [online]. Mental Health Foundation. Dostupné z: https://www.mentalhealth.org.uk/explore-mental-health/stories/heathers-story-walking-nature-my-therapy.
 
-[^ariel-bodynetwork]: [I Walked 10,000 Steps Every Day for a Month Without Dieting](https://bodynetwork.com/10000-steps-daily-30-day-challenge-results/) (Body Network)
+[^8c2a03a2411acee37d27e93f9e5428bc]: *Zkusila jsem ujít 20 tisíc kroků denně: Tohle se stalo s mým tělem i náladou* [online]. Dotyk.cz. Dostupné z: https://www.dotyk.cz/zajimavosti/experiment-chuze-20-tisic-kroku-hubnuti-zdravi-unava.
 
-[^taylor-today]: [These 17 people lost weight walking -- here's how they made it a habit](https://www.today.com/health/diet-fitness/walking-for-weight-loss-tips-rcna35041) (TODAY)
+[^8dfb32c912e1421a00580639ba926d43]: *Příběh Aničky: Jsem na sebe pyšná! Nevěřila jsem, že dokážu ve svém věku zhubnout 20 kg* [online]. STOB. Dostupné z: https://www.stob.cz/cs/pribeh-anicky-jsem-na-sebe-pysna-neverila-jsem-ze-dokazu-ve-svem-veku-zhubnout-20-kg.
 
-[^pope-redbull]: [How did the real-life Forrest Gump manage to run across the USA four times?](https://www.redbull.com/gb-en/theredbulletin/rob-pope-real-life-forrest-gump-interview) (Red Bull, The Red Bulletin)
+[^8e0adcd7b4d2b200fc122796de6129ca]: *I Walked 10,000 Steps Every Day for a Month Without Dieting* [online]. Body Network. Dostupné z: https://bodynetwork.com/10000-steps-daily-30-day-challenge-results.
 
-[^bluezones-aging]: [The multifaceted benefits of walking for healthy aging: from Blue Zones to molecular mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC10643563/) (GeroScience, 2023)
+[^ae63dc2c3040d3b72244e26fc81b3e8e]: *Walking for Mental Health: Inspirational Stories* [online]. WalkTop Blog. Dostupné z: https://www.walktop.com/blog/walking-for-mental-health-inspirational-stories-of-overcoming-challenges-one-step-at-a-time.
 
-[^carly-walktop]: [Walking for Mental Health: Inspirational Stories of Overcoming Challenges One Step at a Time](https://www.walktop.com/blog/walking-for-mental-health-inspirational-stories-of-overcoming-challenges-one-step-at-a-time) (WalkTop Blog)
+[^b354ba403d8f29a6a7373c24bc649165]: *Můj život s úzkostnou poruchou* [online]. Teru Menclová. Dostupné z: https://terusguide.com/muj-zivot-s-uzkostnou-poruchou.
 
-[^josh-walktop]: [Walking for Mental Health: Inspirational Stories](https://www.walktop.com/blog/walking-for-mental-health-inspirational-stories-of-overcoming-challenges-one-step-at-a-time) (WalkTop Blog)
+[^cb3b30f43ffc294b8e6f415609572ea4]: *Increased walking can lessen depression* [online]. UCLA Health. Dostupné z: https://www.uclahealth.org/news/article/increased-walking-can-lessen-depression.
 
-[^nevypust-jitka]: [O životě s úzkostí -- příběh Jitky](https://nevypustdusi.cz/2018/10/31/o-zivote-s-uzkosti-pribeh-jitky/) (Nevypusť duši)
+[^d2e21934d2b32c7cbc3fc566a45323f4]: *„Baví mě, že mě lidé ani nepoznávají," směje se Jana, která zhubla se STOBem 38 kilogramů* [online]. STOB klub. Dostupné z: https://www.stobklub.cz/clanek/-bavi-me-ze-me-lide-ani-nepoznavaji-smeje-se-jana-ktera-zhubla-se-stobem-38-kilogramu.
 
-[^nevypust-miriam]: [O životě s úzkostně depresivní poruchou -- příběh Miriam](https://nevypustdusi.cz/2020/08/21/o-zivote-s-uzkostne-depresivni-poruchou-pribeh-miriam/) (Nevypusť duši)
+[^d6ef2d32aef4ae7a4e0dd1417a8c936b]: *O životě s úzkostně depresivní poruchou -- příběh Miriam* [online]. Nevypusť duši. Dostupné z: https://nevypustdusi.cz/2020/08/21/o-zivote-s-uzkostne-depresivni-poruchou-pribeh-miriam.
 
-[^teru-blog]: [Můj život s úzkostnou poruchou](https://terusguide.com/muj-zivot-s-uzkostnou-poruchou/) (Teru Menclová, Terusguide)
+[^e708806cd5d20f9361308b3af2177014]: *These 17 people lost weight walking -- here's how they made it a habit* [online]. TODAY. Dostupné z: https://www.today.com/health/diet-fitness/walking-for-weight-loss-tips-rcna35041.
 
-[^ucla-depression]: [Increased walking can lessen depression](https://www.uclahealth.org/news/article/increased-walking-can-lessen-depression) (UCLA Health)
+[^e81a06e940a66ecda99c3fa688cb0161]: *How did the real-life Forrest Gump manage to run across the USA four times?* [online]. Red Bull. Dostupné z: https://www.redbull.com/gb-en/theredbulletin/rob-pope-real-life-forrest-gump-interview.
 
-[^beliveau-cbc]: [Montreal globetrotter finishes epic walk](https://www.cbc.ca/news/canada/montreal/montreal-globetrotter-finishes-epic-walk-1.1124303) (CBC News, 2011)
+[^e8d9f0e8a0bccecc6c97055989261a43]: *How Walking Helped My Mental Health* [online]. KEEN Footwear Blog. Dostupné z: https://www.keenfootwear.com/blogs/keen-blog/how-walking-helped-my-mental-health.
 
-[^beliveau-dailyhive]: [A Canadian man once walked around the world in 11 years](https://dailyhive.com/vancouver/jean-beliveau-walk-world-peace) (Daily Hive)
+[^f26e6e7792ab3c519621f97974c3bf35]: *Woman Walks an Hour a Day for 5 Months, Captures What It Does to Her Body* [online]. Newsweek. Dostupné z: https://www.newsweek.com/woman-walks-hour-day-5-months-captures-what-it-does-her-body-1971082.
 
-[^sasek-i60]: [Putování k svatému Jakubu -- 3300 km pěšky z Čech na konec světa](https://www.i60.cz/clanek/detail/25116/putovani-k-svatemu-jakubu-3300-km-pesky-z-cech-na-konec-sveta) (i60.cz)
+[^fbfbf328527a76bf8ce3cf463b999c88]: *Start TODAY community -- Detricia's story* [online]. TODAY, 2023. Dostupné z: https://www.today.com/health/woman-loses-65-pounds-walking-rcna72499.
 
-[^marcikova-svetoutdooru]: [Camino de Santiago: Svatojakubská cesta](https://www.svetoutdooru.cz/hory/poutni-svatojakubska-cesta-do-spanelska/) (Svět Outdooru)
+[^fc97d3107d27ac9a8ff21b2168c79a32]: *O životě s úzkostí -- příběh Jitky* [online]. Nevypusť duši. Dostupné z: https://nevypustdusi.cz/2018/10/31/o-zivote-s-uzkosti-pribeh-jitky.
 
-[^ceresnakova-hrot24]: [Svatojakubská pouť: bez plánu a bez starostí](https://www.hrot24.cz/clanek/bez-planu-a-bez-starosti-svatojakubska-pout-santiago-de-compostela-eva-ceresnakova-HXJTg) (Hrot24.cz)
-
-[^camino-nexttribe]: [Camino de Santiago: How Walking it Changed My Life Forever](https://nexttribe.com/magazine/camino-de-santiago/) (NextTribe)
-
-[^starttoday]: [Start TODAY community -- Detricia's story](https://www.today.com/health/woman-loses-65-pounds-walking-rcna72499) (TODAY, Start TODAY)
+<!-- citations:end -->
